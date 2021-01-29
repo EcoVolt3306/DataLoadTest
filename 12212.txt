@@ -1,0 +1,32 @@
+class bbs {
+private String title;
+private int bbsSeq;
+private String write;
+private LocalDateTime bbsCreateDate;
+}
+
+@Mapper
+public interface bbsMapper{
+ public List<Bbs> getList();
+}
+
+List<Bbs> list = mapper.getList();
+return list;
+
+[
+	{
+		title: ... ,
+		bbsSeq: ...,
+		write : ... ,
+		date : ...
+	},
+	{
+		...
+	}
+]
+
+var list = return
+
+list.forEach( item => {
+	function 구현 위치
+});
