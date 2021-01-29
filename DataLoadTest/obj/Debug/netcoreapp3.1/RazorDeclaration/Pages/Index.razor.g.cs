@@ -83,6 +83,30 @@ using DataLoadTest.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 38 "C:\Users\Seungwoo\source\repos\DataLoadTest\DataLoadTest\Pages\Index.razor"
+       
+
+    private bool IsRender { get; set; } = false;
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        if (firstRender)
+        {
+
+        }
+        else
+        {
+
+        }
+
+        base.OnAfterRender(firstRender);
+    }
+
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591
