@@ -43,40 +43,11 @@
         <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
         <script src="https://cdn.datatables.net/scroller/2.0.3/js/dataTables.scroller.min.js"></script>
 
-        <script type="text/javascript">
-            $(document).ready(function () {
-                $('#loadTest').DataTable();
-
-                var test2 = [{ "a": "asdf", "b": "aasdf", "c": "asdf" }, { "a": "asdf", "b": "aasdf", "c": "asdf" }, { "a": "asdf", "b": "aasdf", "c": "asdf" }, { "a": "asdf", "b": "aasdf", "c": "asdf" }, { "a": "asdf", "b": "aasdf", "c": "asdf" }]
-                //var test = JSON.parse('{ "a":"xx", "b":"ty", "c":"qwe"}');
-                //var test = JSON.parse(test2);
-               // console.log(test2);
-                var table = document.getElementById('loadTest');
-                var str = "";
-                test2.forEach(item => {
-                    //console.log(item)
-                    //item2 = JSON.parse(item);
-                    str+="<tr><td>" + item.a+"</td><td>"+item.b+"</td><td>"+item.c+"</td></tr>";
-                }
-                );
-                $('#target').empty();
-                $('#target').append(str);
-
-
-                @*for (var r = 1, n = table.rows.length; r < n; r++) {
-
-                    for (var c = 0, m = table.rows[r].cells.length; c < m; c++) {
-                        table.rows[r].childNodes[c].innerHTML = 1111;
-                    }
-                }*@
-
-            });
+        <script>
+            window.Tables = () => {
+                    $('#loadTest').DataTable();   
+            };
         </script>
-
-
-
-
-
     </footer>
 </body>
 </html>

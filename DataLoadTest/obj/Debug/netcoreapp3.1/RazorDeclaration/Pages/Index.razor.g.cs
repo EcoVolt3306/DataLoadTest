@@ -84,22 +84,23 @@ using DataLoadTest.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 38 "C:\Users\Seungwoo\source\repos\DataLoadTest\DataLoadTest\Pages\Index.razor"
+#line 41 "C:\Users\Seungwoo\source\repos\DataLoadTest\DataLoadTest\Pages\Index.razor"
        
 
     private bool IsRender { get; set; } = false;
 
-    protected override void OnAfterRender(bool firstRender)
+    protected override async Task OnAfterRenderAsync(bool firstRender)
     {
         if (firstRender)
         {
-
+            Console.Out.WriteLine("ddd");
+            await JS.InvokeVoidAsync("Tables");
         }
         else
         {
-
+            Console.Out.WriteLine("xxxx");
+            await JS.InvokeVoidAsync("Tables");
         }
-
         base.OnAfterRender(firstRender);
     }
 
@@ -107,6 +108,7 @@ using DataLoadTest.Shared;
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IJSRuntime JS { get; set; }
     }
 }
 #pragma warning restore 1591
