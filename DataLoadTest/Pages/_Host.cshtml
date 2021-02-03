@@ -52,9 +52,9 @@
                 });*@   
 
                 $('#loadTest').DataTable({
-                    serverSide: true,
-                    ordering: false,
-                    searching: false,
+                    serverSide: true,   @*서버 사이드 처리*@
+                    ordering: true,    @*정렬 기능 활성화 여부*@
+                    searching: true,    @*검색바 활성화 여부*@
                     ajax: function (data, callback, settings) {
                         var out = [];
 
@@ -69,11 +69,11 @@
                                 recordsTotal: 5000000,
                                 recordsFiltered: 5000000
                             });
-                        }, 50);
+                        }, 200);
                     },
-                    scrollY: 200,
+                    scrollY: 600,   // Height 길이 조절
                     scroller: {
-                        loadingIndicator: true
+                        loadingIndicator: true // 로딩 안내 메세지 표시 여부
                     },
                 });
             };
