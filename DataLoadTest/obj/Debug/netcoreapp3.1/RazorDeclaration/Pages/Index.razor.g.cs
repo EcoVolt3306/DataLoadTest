@@ -93,13 +93,11 @@ using DataLoadTest.Shared;
     {
         if (firstRender)
         {
-            Console.Out.WriteLine("ddd");
             await JS.InvokeVoidAsync("Tables");
         }
         else
         {
-            Console.Out.WriteLine("xxxx");
-            await JS.InvokeVoidAsync("Tables");
+            Console.Out.WriteLine("Load blazor.server.js");
         }
         base.OnAfterRender(firstRender);
     }
