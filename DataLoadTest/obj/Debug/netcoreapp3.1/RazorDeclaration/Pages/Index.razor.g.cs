@@ -84,8 +84,9 @@ using DataLoadTest.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 41 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+#line 39 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
        
+
 
     private bool IsRender { get; set; } = false;
 
@@ -94,6 +95,7 @@ using DataLoadTest.Shared;
         if (firstRender)
         {
             await JS.InvokeVoidAsync("Tables");
+
         }
         else
         {
@@ -101,6 +103,17 @@ using DataLoadTest.Shared;
         }
         base.OnAfterRender(firstRender);
     }
+
+
+    // 1. DB 연결  
+    string connStr = "user id=DEV_ORA_TEST;password=DEV_ORA_TEST;" +
+    "data source=(DESCRIPTION=(ADDRESS=" +
+    "(PROTOCOL=tcp)(HOST=192.168.0.110)" +
+    "(PORT=1521))(CONNECT_DATA=" +
+    "(SID=orcl)))";
+
+
+    
 
 
 #line default

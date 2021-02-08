@@ -1,11 +1,147 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "EntityFramework/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        }
+      },
+      "Oracle.ManagedDataAccess/19.10.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Oracle.ManagedDataAccess.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Oracle.ManagedDataAccess.dll": {}
+        }
+      },
+      "Oracle.ManagedDataAccess.Core/2.19.101": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        }
+      },
+      "Oracle.ManagedDataAccess.EntityFramework/19.7.0": {
+        "type": "package",
+        "dependencies": {
+          "EntityFramework": "[6.0.0, 7.0.0)",
+          "Oracle.ManagedDataAccess": "[19.7.0, 20.0.0)"
+        },
+        "compile": {
+          "lib/net45/Oracle.ManagedDataAccess.EntityFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Oracle.ManagedDataAccess.EntityFramework.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "EntityFramework/6.0.0": {
+      "sha512": "y6lX/VMghGBV6TvgQS4Q2WK6kAcOoyD+TQxObN9utd0JsMMdMxyqARxKbvgi7KEIbQ8osZ4ZvImaly7l3NDFDw==",
+      "type": "package",
+      "path": "entityframework/6.0.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/App.config.transform",
+        "Content/Web.config.transform",
+        "entityframework.6.0.0.nupkg.sha512",
+        "entityframework.nuspec",
+        "lib/net40/EntityFramework.SqlServer.dll",
+        "lib/net40/EntityFramework.SqlServer.xml",
+        "lib/net40/EntityFramework.dll",
+        "lib/net40/EntityFramework.xml",
+        "lib/net45/EntityFramework.SqlServer.dll",
+        "lib/net45/EntityFramework.SqlServer.xml",
+        "lib/net45/EntityFramework.dll",
+        "lib/net45/EntityFramework.xml",
+        "tools/EntityFramework.PowerShell.Utility.dll",
+        "tools/EntityFramework.PowerShell.dll",
+        "tools/EntityFramework.psd1",
+        "tools/EntityFramework.psm1",
+        "tools/about_EntityFramework.help.txt",
+        "tools/init.ps1",
+        "tools/install.ps1",
+        "tools/migrate.exe"
+      ]
+    },
+    "Oracle.ManagedDataAccess/19.10.1": {
+      "sha512": "55KupePPJaCJhEQM90WJVxbq++pb+IReWj02A4jF+V0/EWKkLRLGISVzJpHqcAKTFTnEzGs1hyY3bUMMbz1YXQ==",
+      "type": "package",
+      "path": "oracle.manageddataaccess/19.10.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "PerfCounters/register_odpm_perfmon_counters.ps1",
+        "PerfCounters/unregister_odpm_perfmon_counters.ps1",
+        "bin/x64/Oracle.ManagedDataAccessIOP.dll",
+        "bin/x86/Oracle.ManagedDataAccessIOP.dll",
+        "content/net40/App.config.install.xdt",
+        "content/net40/App.config.transform",
+        "content/net40/App.config.uninstall.xdt",
+        "content/net40/Web.config.install.xdt",
+        "content/net40/Web.config.transform",
+        "content/net40/Web.config.uninstall.xdt",
+        "info.txt",
+        "lib/net40/Oracle.ManagedDataAccess.dll",
+        "oracle.manageddataaccess.19.10.1.nupkg.sha512",
+        "oracle.manageddataaccess.nuspec",
+        "readme.txt"
+      ]
+    },
+    "Oracle.ManagedDataAccess.Core/2.19.101": {
+      "sha512": "gZM0WhFhx/XYjr4C+LoVrDIpQJb2OHKw1i4L75CXQORsvKziaKm6xcZWJI1V27lH879AwJop1eDehdybPI6bKw==",
+      "type": "package",
+      "path": "oracle.manageddataaccess.core/2.19.101",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "PerfCounters/register_odpc_perfmon_counters.ps1",
+        "PerfCounters/unregister_odpc_perfmon_counters.ps1",
+        "info.txt",
+        "lib/netstandard2.0/Oracle.ManagedDataAccess.dll",
+        "oracle.manageddataaccess.core.2.19.101.nupkg.sha512",
+        "oracle.manageddataaccess.core.nuspec",
+        "readme.txt"
+      ]
+    },
+    "Oracle.ManagedDataAccess.EntityFramework/19.7.0": {
+      "sha512": "vu6QazdlHjizQBpfd5g+N9rhmVXNTn6+3E0byqMbKPt8XuTpPdsndPPdJxtbW32DvPLLcbagwaQs9aTo9dbAbw==",
+      "type": "package",
+      "path": "oracle.manageddataaccess.entityframework/19.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/net45/App.config.install.xdt",
+        "content/net45/App.config.uninstall.xdt",
+        "content/net45/Web.config.install.xdt",
+        "content/net45/Web.config.uninstall.xdt",
+        "info.txt",
+        "lib/net45/Oracle.ManagedDataAccess.EntityFramework.dll",
+        "oracle.manageddataaccess.entityframework.19.7.0.nupkg.sha512",
+        "oracle.manageddataaccess.entityframework.nuspec",
+        "readme.txt"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Oracle.ManagedDataAccess >= 19.10.1",
+      "Oracle.ManagedDataAccess.Core >= 2.19.101",
+      "Oracle.ManagedDataAccess.EntityFramework >= 19.7.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Seungwoo\\.nuget\\packages\\": {}
@@ -13,11 +149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Seungwoo\\Source\\Repos\\EcoVolt3306\\DataLoadTest\\DataLoadTest\\DataLoadTest.csproj",
+      "projectUniqueName": "C:\\Users\\Seungwoo\\source\\repos\\EcoVolt3306\\DataLoadTest\\DataLoadTest\\DataLoadTest.csproj",
       "projectName": "DataLoadTest",
-      "projectPath": "C:\\Users\\Seungwoo\\Source\\Repos\\EcoVolt3306\\DataLoadTest\\DataLoadTest\\DataLoadTest.csproj",
+      "projectPath": "C:\\Users\\Seungwoo\\source\\repos\\EcoVolt3306\\DataLoadTest\\DataLoadTest\\DataLoadTest.csproj",
       "packagesPath": "C:\\Users\\Seungwoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Seungwoo\\Source\\Repos\\EcoVolt3306\\DataLoadTest\\DataLoadTest\\obj\\",
+      "outputPath": "C:\\Users\\Seungwoo\\source\\repos\\EcoVolt3306\\DataLoadTest\\DataLoadTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Seungwoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +181,20 @@
     "frameworks": {
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Oracle.ManagedDataAccess": {
+            "target": "Package",
+            "version": "[19.10.1, )"
+          },
+          "Oracle.ManagedDataAccess.Core": {
+            "target": "Package",
+            "version": "[2.19.101, )"
+          },
+          "Oracle.ManagedDataAccess.EntityFramework": {
+            "target": "Package",
+            "version": "[19.7.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -66,5 +216,37 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "프로젝트 대상 프레임워크 '.NETCoreApp,Version=v3.1' 대신 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8'을(를) 사용하여 패키지 'EntityFramework 6.0.0'을(를) 복원했습니다. 이 패키지는 프로젝트와 완벽하게 호환되지 않을 수 있습니다.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "프로젝트 대상 프레임워크 '.NETCoreApp,Version=v3.1' 대신 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8'을(를) 사용하여 패키지 'Oracle.ManagedDataAccess 19.10.1'을(를) 복원했습니다. 이 패키지는 프로젝트와 완벽하게 호환되지 않을 수 있습니다.",
+      "libraryId": "Oracle.ManagedDataAccess",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "프로젝트 대상 프레임워크 '.NETCoreApp,Version=v3.1' 대신 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8'을(를) 사용하여 패키지 'Oracle.ManagedDataAccess.EntityFramework 19.7.0'을(를) 복원했습니다. 이 패키지는 프로젝트와 완벽하게 호환되지 않을 수 있습니다.",
+      "libraryId": "Oracle.ManagedDataAccess.EntityFramework",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

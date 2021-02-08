@@ -100,3 +100,7 @@ C:\Users\Seungwoo\Source\Repos\EcoVolt3306\DataLoadTest\DataLoadTest\obj\Debug\n
 C:\Users\Seungwoo\Source\Repos\EcoVolt3306\DataLoadTest\DataLoadTest\obj\Debug\netcoreapp3.1\DataLoadTest.pdb
 C:\Users\Seungwoo\Source\Repos\EcoVolt3306\DataLoadTest\DataLoadTest\obj\Debug\netcoreapp3.1\DataLoadTest.genruntimeconfig.cache
 C:\Users\Seungwoo\Source\Repos\EcoVolt3306\DataLoadTest\DataLoadTest\obj\Debug\netcoreapp3.1\DataLoadTest.csproj.CopyComplete
+C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.EntityFramework.dll

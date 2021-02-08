@@ -24,6 +24,9 @@
     ".NETCoreApp,Version=v3.1": {
       "DataLoadTest/1.0.0": {
         "dependencies": {
+          "Oracle.ManagedDataAccess": "19.10.1",
+          "Oracle.ManagedDataAccess.Core": "2.19.101",
+          "Oracle.ManagedDataAccess.EntityFramework": "19.7.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -312,6 +315,49 @@
         },
         "compile": {
           "DataLoadTest.dll": {}
+        }
+      },
+      "EntityFramework/6.0.0": {
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.20911.0"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.20911.0"
+          }
+        },
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        }
+      },
+      "Oracle.ManagedDataAccess/19.10.1": {
+        "runtime": {
+          "lib/net40/Oracle.ManagedDataAccess.dll": {
+            "assemblyVersion": "4.122.19.1",
+            "fileVersion": "4.122.19.1"
+          }
+        },
+        "compile": {
+          "lib/net40/Oracle.ManagedDataAccess.dll": {}
+        }
+      },
+      "Oracle.ManagedDataAccess.Core/2.19.101": {},
+      "Oracle.ManagedDataAccess.EntityFramework/19.7.0": {
+        "dependencies": {
+          "EntityFramework": "6.0.0",
+          "Oracle.ManagedDataAccess": "19.10.1"
+        },
+        "runtime": {
+          "lib/net45/Oracle.ManagedDataAccess.EntityFramework.dll": {
+            "assemblyVersion": "6.122.19.1",
+            "fileVersion": "6.122.19.1"
+          }
+        },
+        "compile": {
+          "lib/net45/Oracle.ManagedDataAccess.EntityFramework.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2013,6 +2059,34 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "EntityFramework/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y6lX/VMghGBV6TvgQS4Q2WK6kAcOoyD+TQxObN9utd0JsMMdMxyqARxKbvgi7KEIbQ8osZ4ZvImaly7l3NDFDw==",
+      "path": "entityframework/6.0.0",
+      "hashPath": "entityframework.6.0.0.nupkg.sha512"
+    },
+    "Oracle.ManagedDataAccess/19.10.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-55KupePPJaCJhEQM90WJVxbq++pb+IReWj02A4jF+V0/EWKkLRLGISVzJpHqcAKTFTnEzGs1hyY3bUMMbz1YXQ==",
+      "path": "oracle.manageddataaccess/19.10.1",
+      "hashPath": "oracle.manageddataaccess.19.10.1.nupkg.sha512"
+    },
+    "Oracle.ManagedDataAccess.Core/2.19.101": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gZM0WhFhx/XYjr4C+LoVrDIpQJb2OHKw1i4L75CXQORsvKziaKm6xcZWJI1V27lH879AwJop1eDehdybPI6bKw==",
+      "path": "oracle.manageddataaccess.core/2.19.101",
+      "hashPath": "oracle.manageddataaccess.core.2.19.101.nupkg.sha512"
+    },
+    "Oracle.ManagedDataAccess.EntityFramework/19.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vu6QazdlHjizQBpfd5g+N9rhmVXNTn6+3E0byqMbKPt8XuTpPdsndPPdJxtbW32DvPLLcbagwaQs9aTo9dbAbw==",
+      "path": "oracle.manageddataaccess.entityframework/19.7.0",
+      "hashPath": "oracle.manageddataaccess.entityframework.19.7.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",
