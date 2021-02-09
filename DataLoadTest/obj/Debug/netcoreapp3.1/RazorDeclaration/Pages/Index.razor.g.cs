@@ -75,6 +75,13 @@ using DataLoadTest.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+using Oracle.ManagedDataAccess.Client;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -84,7 +91,7 @@ using DataLoadTest.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 39 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+#line 40 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
        
 
 
@@ -95,7 +102,6 @@ using DataLoadTest.Shared;
         if (firstRender)
         {
             await JS.InvokeVoidAsync("Tables");
-
         }
         else
         {
@@ -106,14 +112,25 @@ using DataLoadTest.Shared;
 
 
     // 1. DB 연결  
-    string connStr = "user id=DEV_ORA_TEST;password=DEV_ORA_TEST;" +
+    string connStr = "";
+
+    private string _strConn = "user id=DEV_ORA_TEST;password=DEV_ORA_TEST;" +
     "data source=(DESCRIPTION=(ADDRESS=" +
     "(PROTOCOL=tcp)(HOST=192.168.0.110)" +
     "(PORT=1521))(CONNECT_DATA=" +
     "(SID=orcl)))";
 
+    OracleConnection conn = new OracleConnection();
 
     
+
+
+
+
+
+
+
+
 
 
 #line default
