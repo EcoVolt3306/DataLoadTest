@@ -102,9 +102,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Oracle.ManagedDataAccess" Version="19.10.1" />
-    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="2.19.101" />
-    <PackageReference Include="Oracle.ManagedDataAccess.EntityFramework" Version="19.7.0" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="3.21.1" />
   </ItemGroup>
 
 </Project>

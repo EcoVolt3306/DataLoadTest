@@ -95,33 +95,24 @@ using Oracle.ManagedDataAccess.Client;
        
 
 
-        private bool IsRender { get; set; } = false;
+    private bool IsRender { get; set; } = false;
 
-        protected override async Task OnAfterRenderAsync(bool firstRender)
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
         {
-            if (firstRender)
-            {
-                await JS.InvokeVoidAsync("Tables");
-            }
-            else
-            {
-                Console.Out.WriteLine("Load blazor.server.js");
-            }
-            base.OnAfterRender(firstRender);
+            await JS.InvokeVoidAsync("Tables");
+            Global.DB db = new Global.DB();
+            db.OracleConnection();
         }
+        else
+        {
+            Console.Out.WriteLine("Load blazor.server.js");
+        }
+        base.OnAfterRender(firstRender);
+    }
 
 
-        // 1. DB 연결  
-        string connStr = "";
-
-        private string _strConn = "user id=DEV_ORA_TEST;password=DEV_ORA_TEST;" +
-        "data source=(DESCRIPTION=(ADDRESS=" +
-        "(PROTOCOL=tcp)(HOST=192.168.0.110)" +
-        "(PORT=1521))(CONNECT_DATA=" +
-        "(SID=orcl)))";
-        
-        
-    
 
 #line default
 #line hidden

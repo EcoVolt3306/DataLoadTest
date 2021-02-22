@@ -40,17 +40,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Oracle.ManagedDataAccess": {
-              "target": "Package",
-              "version": "[19.10.1, )"
-            },
             "Oracle.ManagedDataAccess.Core": {
               "target": "Package",
-              "version": "[2.19.101, )"
-            },
-            "Oracle.ManagedDataAccess.EntityFramework": {
-              "target": "Package",
-              "version": "[19.7.0, )"
+              "version": "[3.21.1, )"
             }
           },
           "imports": [
@@ -71,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -101,6 +101,13 @@ C:\Users\Seungwoo\Source\Repos\EcoVolt3306\DataLoadTest\DataLoadTest\obj\Debug\n
 C:\Users\Seungwoo\Source\Repos\EcoVolt3306\DataLoadTest\DataLoadTest\obj\Debug\netcoreapp3.1\DataLoadTest.genruntimeconfig.cache
 C:\Users\Seungwoo\Source\Repos\EcoVolt3306\DataLoadTest\DataLoadTest\obj\Debug\netcoreapp3.1\DataLoadTest.csproj.CopyComplete
 C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
-C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
-C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\EntityFramework.dll
-C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
