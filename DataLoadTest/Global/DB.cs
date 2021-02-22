@@ -61,9 +61,26 @@ namespace DataLoadTest.Global
 
             for (int i = 0; reader.Read(); i++)
             {
-                if (i >= loadCount) break;
+
                 column1[i] = reader.GetString(0);
-                Console.WriteLine(column1[i]);
+                column2[i] = reader.GetString(1);
+                column3[i] = reader.GetString(2);
+                column4[i] = reader.GetString(3);
+                column5[i] = reader.GetString(4);
+                column6[i] = reader.GetString(5);
+                column7[i] = reader.GetString(6);
+                column8[i] = reader.GetString(7);
+                column9[i] = reader.GetString(8);
+                column10[i] = reader.GetString(9);
+                column11[i] = reader.GetString(10);
+                column12[i] = reader.GetString(11);
+                column13[i] = reader.GetString(12);
+                column14[i] = reader.GetString(13);
+                column15[i] = reader.GetString(14);
+                Console.WriteLine(column1[i] + " " + column2[i] + column3[i] + " " + column4[i] + " " +
+                    column5[i] + " " + column6[i] + " " + column7[i] + " " + column8[i] + " " +
+                    column9[i] + " " + column10[i] + " " + column11[i] + " " + column12[i] + " " +
+                    column13[i] + " " + column14[i] + " " + column15[i] + " ");
             }
 
 
