@@ -75,6 +75,20 @@ using DataLoadTest.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\Users\Seungwoo\Source\Repos\EcoVolt3306\DataLoadTest\DataLoadTest\_Imports.razor"
+using Global;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "C:\Users\Seungwoo\Source\Repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+using Oracle.ManagedDataAccess.Client;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -87,6 +101,7 @@ using DataLoadTest.Shared;
 #line 41 "C:\Users\Seungwoo\Source\Repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
        
 
+
     private bool IsRender { get; set; } = false;
 
     protected override async Task OnAfterRenderAsync(bool firstRender)
@@ -94,6 +109,8 @@ using DataLoadTest.Shared;
         if (firstRender)
         {
             await JS.InvokeVoidAsync("Tables");
+            Global.DB db = new Global.DB();
+            db.OracleConnection();
         }
         else
         {
@@ -101,6 +118,7 @@ using DataLoadTest.Shared;
         }
         base.OnAfterRender(firstRender);
     }
+
 
 
 #line default

@@ -1,5 +1,10 @@
 ﻿@inject IJSRuntime JS
 @using Oracle.ManagedDataAccess.Client
+@using System.Data;
+@using System.Net.Http;
+
+@using Global;
+
 @page "/"
 
 <h1>Data Load TEST</h1>
@@ -24,17 +29,18 @@
             <th>DATA15</th>
         </tr>
     </thead>
+
     @*<tbody>
-        @for (int i = 0; i < 1000; i++)
-        {
-            <tr>
-                @for (int j = 0; j < 15; j++)
-                {
-                    <td>xxoxx</td>
-                }
-            </tr>
-        }
-    </tbody>*@
+            @for (int i = 0; i < 1000; i++)
+            {
+                <tr>
+                    @for (int j = 0; j < 15; j++)
+                    {
+                        <td>xxoxx</td>
+                    }
+                </tr>
+            }
+        </tbody>*@
 </table>
 
 @code {
@@ -47,8 +53,9 @@
         if (firstRender)
         {
             await JS.InvokeVoidAsync("Tables");
-            Global.DB db = new Global.DB();
-            db.OracleConnection();
+            @*Global.DB db = new Global.DB();
+            db.OracleConnection();*@
+            
         }
         else
         {

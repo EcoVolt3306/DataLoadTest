@@ -13,13 +13,6 @@ namespace DataLoadTest.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\_Imports.razor"
-using System.Net.Http;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
 #line 2 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
@@ -76,8 +69,64 @@ using DataLoadTest.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 11 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\_Imports.razor"
+using Microsoft.AspNetCore.Http;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\_Imports.razor"
+using Blazored.SessionStorage;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 14 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\_Imports.razor"
+using Blazored.Toast;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 15 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\_Imports.razor"
+using Blazored.Toast.Services;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 18 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\_Imports.razor"
+using glClass;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 2 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
 using Oracle.ManagedDataAccess.Client;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 3 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+using System.Data;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+using System.Net.Http;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 6 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+using Global;
 
 #line default
 #line hidden
@@ -91,7 +140,7 @@ using Oracle.ManagedDataAccess.Client;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 40 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+#line 46 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
        
 
 
@@ -102,8 +151,15 @@ using Oracle.ManagedDataAccess.Client;
         if (firstRender)
         {
             await JS.InvokeVoidAsync("Tables");
-            Global.DB db = new Global.DB();
-            db.OracleConnection();
+            
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 57 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+                                    
+            
         }
         else
         {

@@ -76,6 +76,13 @@ using DataLoadTest.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 11 "C:\Users\Seungwoo\Source\Repos\EcoVolt3306\DataLoadTest\DataLoadTest\_Imports.razor"
+using Global;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 3 "C:\Users\Seungwoo\Source\Repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\FetchData.razor"
 using DataLoadTest.Data;
 

@@ -12,6 +12,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Data.OracleClient;
 
+using System.Data;
+using Global;
+
 namespace DataLoadTest
 {
     public class Startup
@@ -56,6 +59,75 @@ namespace DataLoadTest
                 endpoints.MapBlazorHub();
                 endpoints.MapFallbackToPage("/_Host");
             });
+
+        }
+
+
+        private void CheckAppConfig()
+        {
+            try
+            {
+                DataTable configData = Api.Common.GetAppConfig();
+
+                if (configData != null)
+                {
+                    for (int i = 0; i < configData.Rows.Count; i++)
+                    {
+                        string configType = glClass.Common.ConvertString(configData.Rows[i][0]);
+                        string configValue = glClass.Common.ConvertString(configData.Rows[i][1]);
+
+                        switch (configType.ToLower())
+                        {
+                            case "work_flag_hour":
+                                gVar.WorkFlagHour = configValue;
+                                break;
+                            case "login_image":
+                                gVar.AppThemeInfo.LoginImg = configValue;
+                                break;
+                            case "provider":
+                                gVar.Provider = configValue;
+                                break;
+                            case "app_full_name":
+                                gVar.AppFullName = configValue;
+                                break;
+                            case "app_name":
+                                gVar.AppName = configValue;
+                                break;
+                            case "cust_name":
+                                gVar.CustName = configValue;
+                                break;
+                            case "cust_full_name":
+                                gVar.CustFullName = configValue;
+                                break;
+                            case "session_out_min":
+                                gVar.SessionOutMin = glClass.Common.ConvertInt(configValue);
+                                break;
+                            case "theme":
+                                gVar.AppThemeInfo.SetTheme = configValue;
+                                break;
+                            case "style_color":
+                                gVar.AppThemeInfo.AppStyleColor = glClass.Common.ConvertColor(configValue.StartsWith("#") ? configValue : string.Format("#{0}", configValue), System.Drawing.Color.DarkRed);
+                                break;
+                            case "style_fore_color":
+                                gVar.AppThemeInfo.AppStyleForeColor = glClass.Common.ConvertColor(configValue.StartsWith("#") ? configValue : string.Format("#{0}", configValue), System.Drawing.Color.DarkRed);
+                                break;
+                        }
+                    }
+
+                    if (string.IsNullOrEmpty(Global.gVar.CustFullName))
+                    {
+                        Global.gVar.AppTitle = string.Format("[{0}] - {1}", Global.gVar.AppName, Global.gVar.AppFullName);
+                    }
+                    else
+                    {
+                        Global.gVar.AppTitle = string.Format("[{0}] - {1}", Global.gVar.CustFullName, Global.gVar.AppFullName);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                glClass.Log.FileLog(glClass.Log.LogFlag.Err, string.Format("{0} -> {1}", glClass.Common.GetNowMethodName(), ex.Message.ToString()));
+            }
         }
     }
 }

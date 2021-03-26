@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Oracle.ManagedDataAccess.Client;
 
-namespace DataLoadTest.Global
+namespace Global
 {
     public class DB
     {

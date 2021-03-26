@@ -75,6 +75,13 @@ using DataLoadTest.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\Users\Seungwoo\Source\Repos\EcoVolt3306\DataLoadTest\DataLoadTest\_Imports.razor"
+using Global;
+
+#line default
+#line hidden
+#nullable disable
     public partial class MainLayout : LayoutComponentBase
     {
         #pragma warning disable 1998
