@@ -1,0 +1,1686 @@
+16:10:29.294 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:29.302 - InitDbCommand -> Connect fail..
+16:10:29.305 - ToDataSet -> Object reference not set to an instance of an object.
+16:10:29.307 - GetAppConfig -> Need to check DB status
+16:10:31.387 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:31.388 - InitDbCommand -> Connect fail..
+16:10:31.389 - ToValue -> Object reference not set to an instance of an object.
+16:10:31.402 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:31.403 - InitDbCommand -> Connect fail..
+16:10:31.404 - ToDataSet -> Object reference not set to an instance of an object.
+16:10:31.405 - GetAppConfig -> Need to check DB status
+16:10:34.370 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:34.372 - InitDbCommand -> Connect fail..
+16:10:34.373 - ToValue -> Object reference not set to an instance of an object.
+16:10:36.462 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:36.464 - InitDbCommand -> Connect fail..
+16:10:36.465 - ToDataSet -> Object reference not set to an instance of an object.
+16:10:36.467 - GetAppConfig -> Need to check DB status
+16:10:37.370 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:37.371 - InitDbCommand -> Connect fail..
+16:10:37.372 - ToValue -> Object reference not set to an instance of an object.
+16:10:40.718 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:40.719 - InitDbCommand -> Connect fail..
+16:10:40.721 - ToValue -> Object reference not set to an instance of an object.
+16:10:41.459 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:41.460 - InitDbCommand -> Connect fail..
+16:10:41.462 - ToDataSet -> Object reference not set to an instance of an object.
+16:10:41.464 - GetAppConfig -> Need to check DB status
+16:10:43.384 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:43.385 - InitDbCommand -> Connect fail..
+16:10:43.387 - ToValue -> Object reference not set to an instance of an object.
+16:10:46.386 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:46.389 - InitDbCommand -> Connect fail..
+16:10:46.393 - ToDataSet -> Object reference not set to an instance of an object.
+16:10:46.395 - GetAppConfig -> Need to check DB status
+16:10:46.446 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:46.448 - InitDbCommand -> Connect fail..
+16:10:46.450 - ToValue -> Object reference not set to an instance of an object.
+16:10:49.397 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:49.399 - InitDbCommand -> Connect fail..
+16:10:49.400 - ToValue -> Object reference not set to an instance of an object.
+16:10:51.386 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:51.388 - InitDbCommand -> Connect fail..
+16:10:51.389 - ToDataSet -> Object reference not set to an instance of an object.
+16:10:51.391 - GetAppConfig -> Need to check DB status
+16:10:52.412 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:52.413 - InitDbCommand -> Connect fail..
+16:10:52.415 - ToValue -> Object reference not set to an instance of an object.
+16:10:55.364 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:55.365 - InitDbCommand -> Connect fail..
+16:10:55.367 - ToValue -> Object reference not set to an instance of an object.
+16:10:56.380 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:56.381 - InitDbCommand -> Connect fail..
+16:10:56.382 - ToDataSet -> Object reference not set to an instance of an object.
+16:10:56.383 - GetAppConfig -> Need to check DB status
+16:10:58.395 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:10:58.399 - InitDbCommand -> Connect fail..
+16:10:58.402 - ToValue -> Object reference not set to an instance of an object.
+16:11:01.379 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:01.380 - InitDbCommand -> Connect fail..
+16:11:01.381 - InitDbCommand -> Connect fail..
+16:11:01.382 - GetAppConfig -> Need to check DB status
+16:11:04.395 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:04.397 - InitDbCommand -> Connect fail..
+16:11:04.399 - ToValue -> Object reference not set to an instance of an object.
+16:11:06.377 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:06.378 - InitDbCommand -> Connect fail..
+16:11:06.379 - ToDataSet -> Object reference not set to an instance of an object.
+16:11:06.381 - GetAppConfig -> Need to check DB status
+16:11:07.377 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:07.378 - InitDbCommand -> Connect fail..
+16:11:07.380 - ToValue -> Object reference not set to an instance of an object.
+16:11:10.379 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:10.381 - InitDbCommand -> Connect fail..
+16:11:10.382 - ToValue -> Object reference not set to an instance of an object.
+16:11:11.424 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:11.425 - InitDbCommand -> Connect fail..
+16:11:11.427 - ToDataSet -> Object reference not set to an instance of an object.
+16:11:11.428 - GetAppConfig -> Need to check DB status
+16:11:13.375 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:13.376 - InitDbCommand -> Connect fail..
+16:11:13.378 - ToValue -> Object reference not set to an instance of an object.
+16:11:16.374 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:16.375 - InitDbCommand -> Connect fail..
+16:11:16.376 - ToDataSet -> Object reference not set to an instance of an object.
+16:11:16.378 - GetAppConfig -> Need to check DB status
+16:11:16.390 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:16.392 - InitDbCommand -> Connect fail..
+16:11:16.394 - ToValue -> Object reference not set to an instance of an object.
+16:11:19.389 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:19.391 - InitDbCommand -> Connect fail..
+16:11:19.392 - ToValue -> Object reference not set to an instance of an object.
+16:11:21.373 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:21.375 - InitDbCommand -> Connect fail..
+16:11:21.376 - ToDataSet -> Object reference not set to an instance of an object.
+16:11:21.377 - GetAppConfig -> Need to check DB status
+16:11:22.389 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:22.391 - InitDbCommand -> Connect fail..
+16:11:22.392 - ToValue -> Object reference not set to an instance of an object.
+16:11:25.372 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:25.373 - InitDbCommand -> Connect fail..
+16:11:25.375 - ToValue -> Object reference not set to an instance of an object.
+16:11:26.372 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:26.373 - InitDbCommand -> Connect fail..
+16:11:26.375 - ToDataSet -> Object reference not set to an instance of an object.
+16:11:26.378 - GetAppConfig -> Need to check DB status
+16:11:28.405 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:28.406 - InitDbCommand -> Connect fail..
+16:11:28.408 - ToValue -> Object reference not set to an instance of an object.
+16:11:31.372 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:31.374 - InitDbCommand -> Connect fail..
+16:11:31.375 - ToValue -> Object reference not set to an instance of an object.
+16:11:31.387 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:31.388 - InitDbCommand -> Connect fail..
+16:11:31.390 - ToDataSet -> Object reference not set to an instance of an object.
+16:11:31.391 - GetAppConfig -> Need to check DB status
+16:11:34.371 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:34.372 - InitDbCommand -> Connect fail..
+16:11:34.373 - ToValue -> Object reference not set to an instance of an object.
+16:11:36.369 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:36.370 - InitDbCommand -> Connect fail..
+16:11:36.371 - ToDataSet -> Object reference not set to an instance of an object.
+16:11:36.372 - GetAppConfig -> Need to check DB status
+16:11:37.385 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:37.386 - InitDbCommand -> Connect fail..
+16:11:37.387 - ToValue -> Object reference not set to an instance of an object.
+16:11:40.384 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:40.385 - InitDbCommand -> Connect fail..
+16:11:40.386 - ToValue -> Object reference not set to an instance of an object.
+16:11:41.379 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:41.380 - InitDbCommand -> Connect fail..
+16:11:41.382 - ToDataSet -> Object reference not set to an instance of an object.
+16:11:41.384 - GetAppConfig -> Need to check DB status
+16:11:43.383 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:43.384 - InitDbCommand -> Connect fail..
+16:11:43.385 - ToValue -> Object reference not set to an instance of an object.
+16:11:46.366 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:46.367 - InitDbCommand -> Connect fail..
+16:11:46.368 - ToValue -> Object reference not set to an instance of an object.
+16:11:46.383 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:46.385 - InitDbCommand -> Connect fail..
+16:11:46.386 - ToDataSet -> Object reference not set to an instance of an object.
+16:11:46.387 - GetAppConfig -> Need to check DB status
+16:11:49.397 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:49.398 - InitDbCommand -> Connect fail..
+16:11:49.399 - ToValue -> Object reference not set to an instance of an object.
+16:11:51.387 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:51.398 - InitDbCommand -> Connect fail..
+16:11:51.399 - ToDataSet -> Object reference not set to an instance of an object.
+16:11:51.402 - GetAppConfig -> Need to check DB status
+16:11:52.380 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:52.381 - InitDbCommand -> Connect fail..
+16:11:52.382 - ToValue -> Object reference not set to an instance of an object.
+16:11:55.464 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:55.466 - InitDbCommand -> Connect fail..
+16:11:55.468 - ToValue -> Object reference not set to an instance of an object.
+16:11:56.396 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:56.397 - InitDbCommand -> Connect fail..
+16:11:56.398 - ToDataSet -> Object reference not set to an instance of an object.
+16:11:56.400 - GetAppConfig -> Need to check DB status
+16:11:58.363 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:11:58.365 - InitDbCommand -> Connect fail..
+16:11:58.366 - ToValue -> Object reference not set to an instance of an object.
+16:12:01.394 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:01.396 - InitDbCommand -> Connect fail..
+16:12:01.398 - GetAppConfig -> Need to check DB status
+16:12:04.378 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:04.379 - InitDbCommand -> Connect fail..
+16:12:04.380 - ToValue -> Object reference not set to an instance of an object.
+16:12:06.375 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:06.377 - InitDbCommand -> Connect fail..
+16:12:06.378 - ToDataSet -> Object reference not set to an instance of an object.
+16:12:06.380 - GetAppConfig -> Need to check DB status
+16:12:07.377 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:07.378 - InitDbCommand -> Connect fail..
+16:12:07.379 - ToValue -> Object reference not set to an instance of an object.
+16:12:10.392 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:10.394 - InitDbCommand -> Connect fail..
+16:12:10.396 - ToValue -> Object reference not set to an instance of an object.
+16:12:11.377 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:11.379 - InitDbCommand -> Connect fail..
+16:12:11.380 - ToDataSet -> Object reference not set to an instance of an object.
+16:12:11.381 - GetAppConfig -> Need to check DB status
+16:12:13.376 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:13.378 - InitDbCommand -> Connect fail..
+16:12:13.381 - ToValue -> Object reference not set to an instance of an object.
+16:12:16.391 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:16.393 - InitDbCommand -> Connect fail..
+16:12:16.394 - ToValue -> Object reference not set to an instance of an object.
+16:12:16.409 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:16.410 - InitDbCommand -> Connect fail..
+16:12:16.412 - ToDataSet -> Object reference not set to an instance of an object.
+16:12:16.414 - GetAppConfig -> Need to check DB status
+16:12:19.405 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:19.406 - InitDbCommand -> Connect fail..
+16:12:19.407 - ToValue -> Object reference not set to an instance of an object.
+16:12:21.373 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:21.374 - InitDbCommand -> Connect fail..
+16:12:21.375 - ToDataSet -> Object reference not set to an instance of an object.
+16:12:21.376 - GetAppConfig -> Need to check DB status
+16:12:22.373 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:22.374 - InitDbCommand -> Connect fail..
+16:12:22.376 - ToValue -> Object reference not set to an instance of an object.
+16:12:25.371 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:25.372 - InitDbCommand -> Connect fail..
+16:12:25.374 - ToValue -> Object reference not set to an instance of an object.
+16:12:26.388 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:26.389 - InitDbCommand -> Connect fail..
+16:12:26.391 - ToDataSet -> Object reference not set to an instance of an object.
+16:12:26.392 - GetAppConfig -> Need to check DB status
+16:12:28.371 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:28.372 - InitDbCommand -> Connect fail..
+16:12:28.373 - ToValue -> Object reference not set to an instance of an object.
+16:12:31.371 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:31.372 - InitDbCommand -> Connect fail..
+16:12:31.373 - ToDataSet -> Object reference not set to an instance of an object.
+16:12:31.374 - GetAppConfig -> Need to check DB status
+16:12:31.396 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:31.398 - InitDbCommand -> Connect fail..
+16:12:31.399 - ToValue -> Object reference not set to an instance of an object.
+16:12:34.391 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:34.393 - InitDbCommand -> Connect fail..
+16:12:34.395 - ToValue -> Object reference not set to an instance of an object.
+16:12:36.369 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:36.371 - InitDbCommand -> Connect fail..
+16:12:36.373 - ToDataSet -> Object reference not set to an instance of an object.
+16:12:36.374 - GetAppConfig -> Need to check DB status
+16:12:37.400 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:37.401 - InitDbCommand -> Connect fail..
+16:12:37.402 - ToValue -> Object reference not set to an instance of an object.
+16:12:40.384 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:40.385 - InitDbCommand -> Connect fail..
+16:12:40.386 - ToValue -> Object reference not set to an instance of an object.
+16:12:41.368 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:41.369 - InitDbCommand -> Connect fail..
+16:12:41.370 - ToDataSet -> Object reference not set to an instance of an object.
+16:12:41.371 - GetAppConfig -> Need to check DB status
+16:12:43.383 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:43.385 - InitDbCommand -> Connect fail..
+16:12:43.387 - ToValue -> Object reference not set to an instance of an object.
+16:12:46.366 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:46.368 - InitDbCommand -> Connect fail..
+16:12:46.369 - ToValue -> Object reference not set to an instance of an object.
+16:12:46.386 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:46.388 - InitDbCommand -> Connect fail..
+16:12:46.389 - ToDataSet -> Object reference not set to an instance of an object.
+16:12:46.391 - GetAppConfig -> Need to check DB status
+16:12:49.385 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:49.387 - InitDbCommand -> Connect fail..
+16:12:49.388 - ToValue -> Object reference not set to an instance of an object.
+16:12:51.382 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:51.384 - InitDbCommand -> Connect fail..
+16:12:51.386 - ToDataSet -> Object reference not set to an instance of an object.
+16:12:51.387 - GetAppConfig -> Need to check DB status
+16:12:52.381 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:52.382 - InitDbCommand -> Connect fail..
+16:12:52.383 - ToValue -> Object reference not set to an instance of an object.
+16:12:55.380 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:55.381 - InitDbCommand -> Connect fail..
+16:12:55.382 - ToValue -> Object reference not set to an instance of an object.
+16:12:56.364 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:56.365 - InitDbCommand -> Connect fail..
+16:12:56.366 - ToDataSet -> Object reference not set to an instance of an object.
+16:12:56.368 - GetAppConfig -> Need to check DB status
+16:12:58.380 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:12:58.381 - InitDbCommand -> Connect fail..
+16:12:58.382 - ToValue -> Object reference not set to an instance of an object.
+16:13:01.369 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:01.370 - InitDbCommand -> Connect fail..
+16:13:01.371 - ToDataSet -> Object reference not set to an instance of an object.
+16:13:01.372 - GetAppConfig -> Need to check DB status
+16:13:01.394 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:01.396 - InitDbCommand -> Connect fail..
+16:13:01.397 - ToValue -> Object reference not set to an instance of an object.
+16:13:04.378 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:04.379 - InitDbCommand -> Connect fail..
+16:13:04.380 - ToValue -> Object reference not set to an instance of an object.
+16:13:06.399 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:06.400 - InitDbCommand -> Connect fail..
+16:13:06.401 - ToDataSet -> Object reference not set to an instance of an object.
+16:13:06.403 - GetAppConfig -> Need to check DB status
+16:13:07.378 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:07.379 - InitDbCommand -> Connect fail..
+16:13:07.381 - ToValue -> Object reference not set to an instance of an object.
+16:13:10.376 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:10.377 - InitDbCommand -> Connect fail..
+16:13:10.379 - ToValue -> Object reference not set to an instance of an object.
+16:13:11.382 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:11.383 - InitDbCommand -> Connect fail..
+16:13:11.385 - ToDataSet -> Object reference not set to an instance of an object.
+16:13:11.386 - GetAppConfig -> Need to check DB status
+16:13:13.391 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:13.392 - InitDbCommand -> Connect fail..
+16:13:13.393 - ToValue -> Object reference not set to an instance of an object.
+16:13:16.374 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:16.376 - InitDbCommand -> Connect fail..
+16:13:16.377 - ToDataSet -> Object reference not set to an instance of an object.
+16:13:16.378 - GetAppConfig -> Need to check DB status
+16:13:16.405 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:16.406 - InitDbCommand -> Connect fail..
+16:13:16.408 - ToValue -> Object reference not set to an instance of an object.
+16:13:19.390 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:19.391 - InitDbCommand -> Connect fail..
+16:13:19.392 - ToValue -> Object reference not set to an instance of an object.
+16:13:21.373 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:21.375 - InitDbCommand -> Connect fail..
+16:13:21.376 - ToDataSet -> Object reference not set to an instance of an object.
+16:13:21.378 - GetAppConfig -> Need to check DB status
+16:13:22.388 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:22.389 - InitDbCommand -> Connect fail..
+16:13:22.391 - ToValue -> Object reference not set to an instance of an object.
+16:13:25.372 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:25.373 - InitDbCommand -> Connect fail..
+16:13:25.374 - ToValue -> Object reference not set to an instance of an object.
+16:13:26.372 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:26.373 - InitDbCommand -> Connect fail..
+16:13:26.374 - ToDataSet -> Object reference not set to an instance of an object.
+16:13:26.375 - GetAppConfig -> Need to check DB status
+16:13:28.372 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:28.373 - InitDbCommand -> Connect fail..
+16:13:28.374 - ToValue -> Object reference not set to an instance of an object.
+16:13:31.395 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:31.396 - InitDbCommand -> Connect fail..
+16:13:31.397 - ToValue -> Object reference not set to an instance of an object.
+16:13:31.403 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:31.404 - InitDbCommand -> Connect fail..
+16:13:31.406 - ToDataSet -> Object reference not set to an instance of an object.
+16:13:31.407 - GetAppConfig -> Need to check DB status
+16:13:34.370 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:34.371 - InitDbCommand -> Connect fail..
+16:13:34.372 - ToValue -> Object reference not set to an instance of an object.
+16:13:36.384 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:36.386 - InitDbCommand -> Connect fail..
+16:13:36.387 - ToDataSet -> Object reference not set to an instance of an object.
+16:13:36.388 - GetAppConfig -> Need to check DB status
+16:13:37.369 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:37.370 - InitDbCommand -> Connect fail..
+16:13:37.371 - ToValue -> Object reference not set to an instance of an object.
+16:13:40.384 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:40.385 - InitDbCommand -> Connect fail..
+16:13:40.386 - ToValue -> Object reference not set to an instance of an object.
+16:13:41.368 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:41.369 - InitDbCommand -> Connect fail..
+16:13:41.370 - ToDataSet -> Object reference not set to an instance of an object.
+16:13:41.371 - GetAppConfig -> Need to check DB status
+16:13:43.403 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:43.404 - InitDbCommand -> Connect fail..
+16:13:43.406 - ToValue -> Object reference not set to an instance of an object.
+16:13:46.398 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:46.399 - InitDbCommand -> Connect fail..
+16:13:46.400 - ToValue -> Object reference not set to an instance of an object.
+16:13:46.419 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:46.420 - InitDbCommand -> Connect fail..
+16:13:46.422 - ToDataSet -> Object reference not set to an instance of an object.
+16:13:46.423 - GetAppConfig -> Need to check DB status
+16:13:49.382 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:49.383 - InitDbCommand -> Connect fail..
+16:13:49.385 - ToValue -> Object reference not set to an instance of an object.
+16:13:51.382 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:51.384 - InitDbCommand -> Connect fail..
+16:13:51.386 - ToDataSet -> Object reference not set to an instance of an object.
+16:13:51.387 - GetAppConfig -> Need to check DB status
+16:13:52.381 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:52.382 - InitDbCommand -> Connect fail..
+16:13:52.383 - ToValue -> Object reference not set to an instance of an object.
+16:13:55.381 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:55.382 - InitDbCommand -> Connect fail..
+16:13:55.383 - ToValue -> Object reference not set to an instance of an object.
+16:13:56.379 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:56.381 - InitDbCommand -> Connect fail..
+16:13:56.382 - ToDataSet -> Object reference not set to an instance of an object.
+16:13:56.383 - GetAppConfig -> Need to check DB status
+16:13:58.379 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:13:58.380 - InitDbCommand -> Connect fail..
+16:13:58.381 - ToValue -> Object reference not set to an instance of an object.
+16:14:01.363 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:01.364 - InitDbCommand -> Connect fail..
+16:14:01.366 - ToDataSet -> Object reference not set to an instance of an object.
+16:14:01.367 - GetAppConfig -> Need to check DB status
+16:14:01.378 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:01.381 - InitDbCommand -> Connect fail..
+16:14:01.383 - ToValue -> Object reference not set to an instance of an object.
+16:14:04.393 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:04.394 - InitDbCommand -> Connect fail..
+16:14:04.397 - ToValue -> Object reference not set to an instance of an object.
+16:14:06.378 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:06.380 - InitDbCommand -> Connect fail..
+16:14:06.381 - ToDataSet -> Object reference not set to an instance of an object.
+16:14:06.383 - GetAppConfig -> Need to check DB status
+16:14:07.424 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:07.425 - InitDbCommand -> Connect fail..
+16:14:07.426 - ToValue -> Object reference not set to an instance of an object.
+16:14:10.377 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:10.379 - InitDbCommand -> Connect fail..
+16:14:10.380 - ToValue -> Object reference not set to an instance of an object.
+16:14:11.375 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:11.377 - InitDbCommand -> Connect fail..
+16:14:11.378 - ToDataSet -> Object reference not set to an instance of an object.
+16:14:11.379 - GetAppConfig -> Need to check DB status
+16:14:13.396 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:13.397 - InitDbCommand -> Connect fail..
+16:14:13.399 - ToValue -> Object reference not set to an instance of an object.
+16:14:16.390 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:16.391 - InitDbCommand -> Connect fail..
+16:14:16.393 - ToDataSet -> Object reference not set to an instance of an object.
+16:14:16.394 - GetAppConfig -> Need to check DB status
+16:14:16.407 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:16.409 - InitDbCommand -> Connect fail..
+16:14:16.410 - ToValue -> Object reference not set to an instance of an object.
+16:14:19.399 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:19.400 - InitDbCommand -> Connect fail..
+16:14:19.402 - ToValue -> Object reference not set to an instance of an object.
+16:14:21.373 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:21.375 - InitDbCommand -> Connect fail..
+16:14:21.376 - ToDataSet -> Object reference not set to an instance of an object.
+16:14:21.377 - GetAppConfig -> Need to check DB status
+16:14:22.372 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:22.373 - InitDbCommand -> Connect fail..
+16:14:22.375 - ToValue -> Object reference not set to an instance of an object.
+16:14:25.373 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:25.374 - InitDbCommand -> Connect fail..
+16:14:25.375 - ToValue -> Object reference not set to an instance of an object.
+16:14:26.397 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:26.399 - InitDbCommand -> Connect fail..
+16:14:26.400 - ToDataSet -> Object reference not set to an instance of an object.
+16:14:26.402 - GetAppConfig -> Need to check DB status
+16:14:28.388 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:28.390 - InitDbCommand -> Connect fail..
+16:14:28.392 - ToValue -> Object reference not set to an instance of an object.
+16:14:31.371 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:31.372 - InitDbCommand -> Connect fail..
+16:14:31.374 - ToDataSet -> Object reference not set to an instance of an object.
+16:14:31.375 - GetAppConfig -> Need to check DB status
+16:14:31.386 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:31.388 - InitDbCommand -> Connect fail..
+16:14:31.389 - ToValue -> Object reference not set to an instance of an object.
+16:14:34.448 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:34.449 - InitDbCommand -> Connect fail..
+16:14:34.450 - ToValue -> Object reference not set to an instance of an object.
+16:14:36.409 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:36.411 - InitDbCommand -> Connect fail..
+16:14:36.413 - ToDataSet -> Object reference not set to an instance of an object.
+16:14:36.415 - GetAppConfig -> Need to check DB status
+16:14:37.384 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:37.386 - InitDbCommand -> Connect fail..
+16:14:37.387 - ToValue -> Object reference not set to an instance of an object.
+16:14:40.399 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:40.401 - InitDbCommand -> Connect fail..
+16:14:40.402 - ToValue -> Object reference not set to an instance of an object.
+16:14:41.384 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:41.385 - InitDbCommand -> Connect fail..
+16:14:41.386 - ToDataSet -> Object reference not set to an instance of an object.
+16:14:41.387 - GetAppConfig -> Need to check DB status
+16:14:43.383 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:43.384 - InitDbCommand -> Connect fail..
+16:14:43.388 - ToValue -> Object reference not set to an instance of an object.
+16:14:46.367 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:46.371 - InitDbCommand -> Connect fail..
+16:14:46.372 - ToValue -> Object reference not set to an instance of an object.
+16:14:46.385 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:46.387 - InitDbCommand -> Connect fail..
+16:14:46.389 - ToDataSet -> Object reference not set to an instance of an object.
+16:14:46.390 - GetAppConfig -> Need to check DB status
+16:14:49.428 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:49.429 - InitDbCommand -> Connect fail..
+16:14:49.431 - ToValue -> Object reference not set to an instance of an object.
+16:14:51.381 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:51.382 - InitDbCommand -> Connect fail..
+16:14:51.383 - ToDataSet -> Object reference not set to an instance of an object.
+16:14:51.387 - GetAppConfig -> Need to check DB status
+16:14:52.366 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:52.367 - InitDbCommand -> Connect fail..
+16:14:52.368 - ToValue -> Object reference not set to an instance of an object.
+16:14:55.381 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:55.382 - InitDbCommand -> Connect fail..
+16:14:55.384 - ToValue -> Object reference not set to an instance of an object.
+16:14:56.395 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:56.397 - InitDbCommand -> Connect fail..
+16:14:56.398 - ToDataSet -> Object reference not set to an instance of an object.
+16:14:56.398 - GetAppConfig -> Need to check DB status
+16:14:58.380 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:14:58.382 - InitDbCommand -> Connect fail..
+16:14:58.385 - ToValue -> Object reference not set to an instance of an object.
+16:15:01.377 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:01.379 - ToValue -> Object reference not set to an instance of an object.
+16:15:01.380 - GetAppConfig -> Need to check DB status
+16:15:04.381 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:04.382 - InitDbCommand -> Connect fail..
+16:15:04.384 - ToValue -> Object reference not set to an instance of an object.
+16:15:06.377 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:06.378 - InitDbCommand -> Connect fail..
+16:15:06.379 - ToDataSet -> Object reference not set to an instance of an object.
+16:15:06.380 - GetAppConfig -> Need to check DB status
+16:15:07.377 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:07.378 - InitDbCommand -> Connect fail..
+16:15:07.379 - ToValue -> Object reference not set to an instance of an object.
+16:15:10.389 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:10.391 - InitDbCommand -> Connect fail..
+16:15:10.392 - ToValue -> Object reference not set to an instance of an object.
+16:15:11.392 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:11.393 - InitDbCommand -> Connect fail..
+16:15:11.394 - ToDataSet -> Object reference not set to an instance of an object.
+16:15:11.395 - GetAppConfig -> Need to check DB status
+16:15:13.391 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:13.392 - InitDbCommand -> Connect fail..
+16:15:13.393 - ToValue -> Object reference not set to an instance of an object.
+16:15:16.374 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:16.375 - InitDbCommand -> Connect fail..
+16:15:16.376 - ToValue -> Object reference not set to an instance of an object.
+16:15:16.413 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:16.415 - InitDbCommand -> Connect fail..
+16:15:16.416 - ToDataSet -> Object reference not set to an instance of an object.
+16:15:16.418 - GetAppConfig -> Need to check DB status
+16:15:19.391 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:19.392 - InitDbCommand -> Connect fail..
+16:15:19.394 - ToValue -> Object reference not set to an instance of an object.
+16:15:21.388 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:21.390 - InitDbCommand -> Connect fail..
+16:15:21.391 - ToDataSet -> Object reference not set to an instance of an object.
+16:15:21.392 - GetAppConfig -> Need to check DB status
+16:15:22.374 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:22.376 - InitDbCommand -> Connect fail..
+16:15:22.378 - ToValue -> Object reference not set to an instance of an object.
+16:15:25.388 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:25.389 - InitDbCommand -> Connect fail..
+16:15:25.390 - ToValue -> Object reference not set to an instance of an object.
+16:15:26.388 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:26.389 - InitDbCommand -> Connect fail..
+16:15:26.390 - ToDataSet -> Object reference not set to an instance of an object.
+16:15:26.391 - GetAppConfig -> Need to check DB status
+16:15:28.371 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:28.373 - InitDbCommand -> Connect fail..
+16:15:28.374 - ToValue -> Object reference not set to an instance of an object.
+16:15:31.378 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:31.379 - InitDbCommand -> Connect fail..
+16:15:31.380 - ToDataSet -> Object reference not set to an instance of an object.
+16:15:31.381 - GetAppConfig -> Need to check DB status
+16:15:31.386 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:31.387 - InitDbCommand -> Connect fail..
+16:15:31.389 - ToValue -> Object reference not set to an instance of an object.
+16:15:34.386 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:34.387 - InitDbCommand -> Connect fail..
+16:15:34.388 - ToValue -> Object reference not set to an instance of an object.
+16:15:36.418 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:36.420 - InitDbCommand -> Connect fail..
+16:15:36.421 - ToDataSet -> Object reference not set to an instance of an object.
+16:15:36.424 - GetAppConfig -> Need to check DB status
+16:15:37.384 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:37.386 - InitDbCommand -> Connect fail..
+16:15:37.387 - ToValue -> Object reference not set to an instance of an object.
+16:15:40.384 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:40.385 - InitDbCommand -> Connect fail..
+16:15:40.386 - ToValue -> Object reference not set to an instance of an object.
+16:15:41.368 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:41.370 - InitDbCommand -> Connect fail..
+16:15:41.372 - ToDataSet -> Object reference not set to an instance of an object.
+16:15:41.373 - GetAppConfig -> Need to check DB status
+16:15:43.383 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:43.385 - InitDbCommand -> Connect fail..
+16:15:43.386 - ToValue -> Object reference not set to an instance of an object.
+16:15:46.369 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:46.371 - InitDbCommand -> Connect fail..
+16:15:46.374 - ToDataSet -> Object reference not set to an instance of an object.
+16:15:46.377 - GetAppConfig -> Need to check DB status
+16:15:46.385 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:46.387 - InitDbCommand -> Connect fail..
+16:15:46.389 - ToValue -> Object reference not set to an instance of an object.
+16:15:49.381 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:49.383 - InitDbCommand -> Connect fail..
+16:15:49.384 - ToValue -> Object reference not set to an instance of an object.
+16:15:51.365 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:51.367 - InitDbCommand -> Connect fail..
+16:15:51.368 - ToDataSet -> Object reference not set to an instance of an object.
+16:15:51.369 - GetAppConfig -> Need to check DB status
+16:15:52.381 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:15:52.382 - InitDbCommand -> Connect fail..
+16:15:52.384 - ToValue -> Object reference not set to an instance of an object.
+16:16:00.692 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:00.695 - InitDbCommand -> Connect fail..
+16:16:00.697 - ToDataSet -> Object reference not set to an instance of an object.
+16:16:00.699 - GetAppConfig -> Need to check DB status
+16:16:04.771 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:04.773 - InitDbCommand -> Connect fail..
+16:16:04.775 - ToValue -> Object reference not set to an instance of an object.
+16:16:06.814 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:06.816 - InitDbCommand -> Connect fail..
+16:16:06.817 - ToDataSet -> Object reference not set to an instance of an object.
+16:16:06.818 - GetAppConfig -> Need to check DB status
+16:16:07.783 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:07.785 - InitDbCommand -> Connect fail..
+16:16:07.786 - ToValue -> Object reference not set to an instance of an object.
+16:16:10.767 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:10.769 - InitDbCommand -> Connect fail..
+16:16:10.771 - ToValue -> Object reference not set to an instance of an object.
+16:16:11.752 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:11.753 - InitDbCommand -> Connect fail..
+16:16:11.755 - ToDataSet -> Object reference not set to an instance of an object.
+16:16:11.758 - GetAppConfig -> Need to check DB status
+16:16:13.784 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:13.787 - InitDbCommand -> Connect fail..
+16:16:13.789 - ToValue -> Object reference not set to an instance of an object.
+16:16:16.796 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:16.799 - InitDbCommand -> Connect fail..
+16:16:16.799 - InitDbCommand -> Connect fail..
+16:16:16.801 - ToValue -> Object reference not set to an instance of an object.
+16:16:16.805 - ToDataSet -> Object reference not set to an instance of an object.
+16:16:16.807 - GetAppConfig -> Need to check DB status
+16:16:19.827 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:19.828 - InitDbCommand -> Connect fail..
+16:16:19.830 - ToValue -> Object reference not set to an instance of an object.
+16:16:21.764 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:21.766 - InitDbCommand -> Connect fail..
+16:16:21.767 - ToDataSet -> Object reference not set to an instance of an object.
+16:16:21.768 - GetAppConfig -> Need to check DB status
+16:16:22.764 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:22.765 - InitDbCommand -> Connect fail..
+16:16:22.766 - ToValue -> Object reference not set to an instance of an object.
+16:16:25.763 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:25.764 - InitDbCommand -> Connect fail..
+16:16:25.766 - ToValue -> Object reference not set to an instance of an object.
+16:16:26.778 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:26.780 - InitDbCommand -> Connect fail..
+16:16:26.781 - ToDataSet -> Object reference not set to an instance of an object.
+16:16:26.783 - GetAppConfig -> Need to check DB status
+16:16:28.762 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:28.763 - InitDbCommand -> Connect fail..
+16:16:28.765 - ToValue -> Object reference not set to an instance of an object.
+16:16:31.777 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:31.778 - InitDbCommand -> Connect fail..
+16:16:31.780 - ToDataSet -> Object reference not set to an instance of an object.
+16:16:31.781 - GetAppConfig -> Need to check DB status
+16:16:31.795 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:31.797 - InitDbCommand -> Connect fail..
+16:16:31.798 - ToValue -> Object reference not set to an instance of an object.
+16:16:34.776 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:34.778 - InitDbCommand -> Connect fail..
+16:16:34.779 - ToValue -> Object reference not set to an instance of an object.
+16:16:36.776 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:36.777 - InitDbCommand -> Connect fail..
+16:16:36.779 - ToDataSet -> Object reference not set to an instance of an object.
+16:16:36.780 - GetAppConfig -> Need to check DB status
+16:16:37.775 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:37.776 - InitDbCommand -> Connect fail..
+16:16:37.777 - ToValue -> Object reference not set to an instance of an object.
+16:16:40.852 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:40.854 - InitDbCommand -> Connect fail..
+16:16:40.855 - ToValue -> Object reference not set to an instance of an object.
+16:16:41.759 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:41.761 - InitDbCommand -> Connect fail..
+16:16:41.762 - ToDataSet -> Object reference not set to an instance of an object.
+16:16:41.763 - GetAppConfig -> Need to check DB status
+16:16:43.860 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:43.862 - InitDbCommand -> Connect fail..
+16:16:43.863 - ToValue -> Object reference not set to an instance of an object.
+16:16:46.773 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:46.774 - InitDbCommand -> Connect fail..
+16:16:46.775 - ToDataSet -> Object reference not set to an instance of an object.
+16:16:46.776 - GetAppConfig -> Need to check DB status
+16:16:46.789 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:46.790 - InitDbCommand -> Connect fail..
+16:16:46.791 - ToValue -> Object reference not set to an instance of an object.
+16:16:49.772 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:49.773 - InitDbCommand -> Connect fail..
+16:16:49.775 - ToValue -> Object reference not set to an instance of an object.
+16:16:51.771 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:51.773 - InitDbCommand -> Connect fail..
+16:16:51.774 - ToDataSet -> Object reference not set to an instance of an object.
+16:16:51.775 - GetAppConfig -> Need to check DB status
+16:16:52.755 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:52.761 - InitDbCommand -> Connect fail..
+16:16:52.762 - ToValue -> Object reference not set to an instance of an object.
+16:16:55.770 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:55.771 - InitDbCommand -> Connect fail..
+16:16:55.772 - ToValue -> Object reference not set to an instance of an object.
+16:16:56.807 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:56.810 - InitDbCommand -> Connect fail..
+16:16:56.811 - ToDataSet -> Object reference not set to an instance of an object.
+16:16:56.813 - GetAppConfig -> Need to check DB status
+16:16:58.817 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:16:58.818 - InitDbCommand -> Connect fail..
+16:16:58.819 - ToValue -> Object reference not set to an instance of an object.
+16:17:01.780 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:01.781 - InitDbCommand -> Connect fail..
+16:17:01.783 - ToDataSet -> Object reference not set to an instance of an object.
+16:17:01.784 - GetAppConfig -> Need to check DB status
+16:17:01.786 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:01.788 - InitDbCommand -> Connect fail..
+16:17:01.789 - ToValue -> Object reference not set to an instance of an object.
+16:17:04.771 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:04.772 - InitDbCommand -> Connect fail..
+16:17:04.773 - ToValue -> Object reference not set to an instance of an object.
+16:17:06.752 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:06.753 - InitDbCommand -> Connect fail..
+16:17:06.755 - ToDataSet -> Object reference not set to an instance of an object.
+16:17:06.756 - GetAppConfig -> Need to check DB status
+16:17:07.767 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:07.768 - InitDbCommand -> Connect fail..
+16:17:07.770 - ToValue -> Object reference not set to an instance of an object.
+16:17:10.766 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:10.768 - InitDbCommand -> Connect fail..
+16:17:10.769 - ToValue -> Object reference not set to an instance of an object.
+16:17:11.765 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:11.766 - InitDbCommand -> Connect fail..
+16:17:11.767 - ToDataSet -> Object reference not set to an instance of an object.
+16:17:11.768 - GetAppConfig -> Need to check DB status
+16:17:13.766 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:13.767 - InitDbCommand -> Connect fail..
+16:17:13.768 - ToValue -> Object reference not set to an instance of an object.
+16:17:16.765 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:16.767 - InitDbCommand -> Connect fail..
+16:17:16.768 - ToValue -> Object reference not set to an instance of an object.
+16:17:16.781 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:16.782 - InitDbCommand -> Connect fail..
+16:17:16.784 - ToDataSet -> Object reference not set to an instance of an object.
+16:17:16.785 - GetAppConfig -> Need to check DB status
+16:17:19.764 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:19.765 - InitDbCommand -> Connect fail..
+16:17:19.766 - ToValue -> Object reference not set to an instance of an object.
+16:17:21.779 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:21.781 - InitDbCommand -> Connect fail..
+16:17:21.782 - ToDataSet -> Object reference not set to an instance of an object.
+16:17:21.783 - GetAppConfig -> Need to check DB status
+16:17:22.764 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:22.765 - InitDbCommand -> Connect fail..
+16:17:22.766 - ToValue -> Object reference not set to an instance of an object.
+16:17:25.763 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:25.764 - InitDbCommand -> Connect fail..
+16:17:25.765 - ToValue -> Object reference not set to an instance of an object.
+16:17:26.763 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:26.764 - InitDbCommand -> Connect fail..
+16:17:26.765 - ToDataSet -> Object reference not set to an instance of an object.
+16:17:26.766 - GetAppConfig -> Need to check DB status
+16:17:28.778 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:28.779 - InitDbCommand -> Connect fail..
+16:17:28.780 - ToValue -> Object reference not set to an instance of an object.
+16:17:31.761 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:31.763 - InitDbCommand -> Connect fail..
+16:17:31.764 - ToValue -> Object reference not set to an instance of an object.
+16:17:31.776 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:31.777 - InitDbCommand -> Connect fail..
+16:17:31.779 - ToDataSet -> Object reference not set to an instance of an object.
+16:17:31.780 - GetAppConfig -> Need to check DB status
+16:17:34.760 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:34.761 - InitDbCommand -> Connect fail..
+16:17:34.763 - ToValue -> Object reference not set to an instance of an object.
+16:17:36.807 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:36.809 - InitDbCommand -> Connect fail..
+16:17:36.810 - ToDataSet -> Object reference not set to an instance of an object.
+16:17:36.811 - GetAppConfig -> Need to check DB status
+16:17:37.760 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:37.761 - InitDbCommand -> Connect fail..
+16:17:37.762 - ToValue -> Object reference not set to an instance of an object.
+16:17:40.775 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:40.776 - InitDbCommand -> Connect fail..
+16:17:40.777 - ToValue -> Object reference not set to an instance of an object.
+16:17:41.774 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:41.775 - InitDbCommand -> Connect fail..
+16:17:41.777 - ToDataSet -> Object reference not set to an instance of an object.
+16:17:41.778 - GetAppConfig -> Need to check DB status
+16:17:43.773 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:43.774 - InitDbCommand -> Connect fail..
+16:17:43.776 - ToValue -> Object reference not set to an instance of an object.
+16:17:46.761 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:46.762 - InitDbCommand -> Connect fail..
+16:17:46.763 - ToValue -> Object reference not set to an instance of an object.
+16:17:46.773 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:46.774 - InitDbCommand -> Connect fail..
+16:17:46.776 - ToDataSet -> Object reference not set to an instance of an object.
+16:17:46.777 - GetAppConfig -> Need to check DB status
+16:17:49.772 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:49.773 - InitDbCommand -> Connect fail..
+16:17:49.775 - ToValue -> Object reference not set to an instance of an object.
+16:17:51.771 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:51.773 - InitDbCommand -> Connect fail..
+16:17:51.775 - ToDataSet -> Object reference not set to an instance of an object.
+16:17:51.776 - GetAppConfig -> Need to check DB status
+16:17:52.756 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:52.759 - InitDbCommand -> Connect fail..
+16:17:52.760 - ToValue -> Object reference not set to an instance of an object.
+16:17:55.771 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:55.772 - InitDbCommand -> Connect fail..
+16:17:55.773 - ToValue -> Object reference not set to an instance of an object.
+16:17:56.770 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:56.771 - InitDbCommand -> Connect fail..
+16:17:56.773 - ToDataSet -> Object reference not set to an instance of an object.
+16:17:56.774 - GetAppConfig -> Need to check DB status
+16:17:58.769 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:17:58.771 - InitDbCommand -> Connect fail..
+16:17:58.773 - ToValue -> Object reference not set to an instance of an object.
+16:18:01.769 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:01.770 - InitDbCommand -> Connect fail..
+16:18:01.772 - ToDataSet -> Object reference not set to an instance of an object.
+16:18:01.773 - GetAppConfig -> Need to check DB status
+16:18:01.787 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:01.788 - InitDbCommand -> Connect fail..
+16:18:01.789 - ToValue -> Object reference not set to an instance of an object.
+16:18:04.768 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:04.770 - InitDbCommand -> Connect fail..
+16:18:04.772 - ToValue -> Object reference not set to an instance of an object.
+16:18:06.768 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:06.769 - InitDbCommand -> Connect fail..
+16:18:06.771 - ToDataSet -> Object reference not set to an instance of an object.
+16:18:06.772 - GetAppConfig -> Need to check DB status
+16:18:07.752 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:07.753 - InitDbCommand -> Connect fail..
+16:18:07.755 - ToValue -> Object reference not set to an instance of an object.
+16:18:10.766 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:10.767 - InitDbCommand -> Connect fail..
+16:18:10.769 - ToValue -> Object reference not set to an instance of an object.
+16:18:11.766 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:11.767 - InitDbCommand -> Connect fail..
+16:18:11.768 - ToDataSet -> Object reference not set to an instance of an object.
+16:18:11.770 - GetAppConfig -> Need to check DB status
+16:18:13.782 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:13.783 - InitDbCommand -> Connect fail..
+16:18:13.784 - ToValue -> Object reference not set to an instance of an object.
+16:18:16.766 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:16.769 - InitDbCommand -> Connect fail..
+16:18:16.772 - ToValue -> Object reference not set to an instance of an object.
+16:18:16.781 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:16.785 - InitDbCommand -> Connect fail..
+16:18:16.788 - ToDataSet -> Object reference not set to an instance of an object.
+16:18:16.789 - GetAppConfig -> Need to check DB status
+16:18:19.786 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:19.787 - InitDbCommand -> Connect fail..
+16:18:19.790 - ToValue -> Object reference not set to an instance of an object.
+16:18:21.765 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:21.766 - InitDbCommand -> Connect fail..
+16:18:21.767 - ToDataSet -> Object reference not set to an instance of an object.
+16:18:21.769 - GetAppConfig -> Need to check DB status
+16:18:22.794 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:22.795 - InitDbCommand -> Connect fail..
+16:18:22.796 - ToValue -> Object reference not set to an instance of an object.
+16:18:25.778 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:25.781 - InitDbCommand -> Connect fail..
+16:18:25.783 - ToValue -> Object reference not set to an instance of an object.
+16:18:26.793 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:26.795 - InitDbCommand -> Connect fail..
+16:18:26.796 - ToDataSet -> Object reference not set to an instance of an object.
+16:18:26.797 - GetAppConfig -> Need to check DB status
+16:18:28.762 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:28.763 - InitDbCommand -> Connect fail..
+16:18:28.764 - ToValue -> Object reference not set to an instance of an object.
+16:18:31.761 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:31.762 - InitDbCommand -> Connect fail..
+16:18:31.764 - ToDataSet -> Object reference not set to an instance of an object.
+16:18:31.765 - GetAppConfig -> Need to check DB status
+16:18:31.778 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:31.780 - InitDbCommand -> Connect fail..
+16:18:31.781 - ToValue -> Object reference not set to an instance of an object.
+16:18:34.760 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:34.762 - InitDbCommand -> Connect fail..
+16:18:34.763 - ToValue -> Object reference not set to an instance of an object.
+16:18:36.760 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:36.761 - InitDbCommand -> Connect fail..
+16:18:36.762 - ToDataSet -> Object reference not set to an instance of an object.
+16:18:36.763 - GetAppConfig -> Need to check DB status
+16:18:37.774 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:37.775 - InitDbCommand -> Connect fail..
+16:18:37.776 - ToValue -> Object reference not set to an instance of an object.
+16:18:40.775 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:40.776 - InitDbCommand -> Connect fail..
+16:18:40.777 - ToValue -> Object reference not set to an instance of an object.
+16:18:41.759 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:41.760 - InitDbCommand -> Connect fail..
+16:18:41.762 - ToDataSet -> Object reference not set to an instance of an object.
+16:18:41.763 - GetAppConfig -> Need to check DB status
+16:18:43.774 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:43.775 - InitDbCommand -> Connect fail..
+16:18:43.776 - ToValue -> Object reference not set to an instance of an object.
+16:18:46.773 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:46.774 - InitDbCommand -> Connect fail..
+16:18:46.775 - ToDataSet -> Object reference not set to an instance of an object.
+16:18:46.776 - GetAppConfig -> Need to check DB status
+16:18:46.791 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:46.792 - InitDbCommand -> Connect fail..
+16:18:46.793 - ToValue -> Object reference not set to an instance of an object.
+16:18:49.772 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:49.773 - InitDbCommand -> Connect fail..
+16:18:49.775 - ToValue -> Object reference not set to an instance of an object.
+16:18:51.811 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:51.813 - InitDbCommand -> Connect fail..
+16:18:51.814 - ToDataSet -> Object reference not set to an instance of an object.
+16:18:51.815 - GetAppConfig -> Need to check DB status
+16:18:52.857 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:52.860 - InitDbCommand -> Connect fail..
+16:18:52.861 - ToValue -> Object reference not set to an instance of an object.
+16:18:55.771 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:55.772 - InitDbCommand -> Connect fail..
+16:18:55.773 - ToValue -> Object reference not set to an instance of an object.
+16:18:56.755 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:56.756 - InitDbCommand -> Connect fail..
+16:18:56.757 - ToDataSet -> Object reference not set to an instance of an object.
+16:18:56.758 - GetAppConfig -> Need to check DB status
+16:18:58.777 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:18:58.778 - InitDbCommand -> Connect fail..
+16:18:58.779 - ToValue -> Object reference not set to an instance of an object.
+16:19:01.769 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:01.771 - InitDbCommand -> Connect fail..
+16:19:01.772 - ToDataSet -> Object reference not set to an instance of an object.
+16:19:01.773 - GetAppConfig -> Need to check DB status
+16:19:01.786 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:01.787 - InitDbCommand -> Connect fail..
+16:19:01.788 - ToValue -> Object reference not set to an instance of an object.
+16:19:04.820 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:04.822 - InitDbCommand -> Connect fail..
+16:19:04.824 - ToValue -> Object reference not set to an instance of an object.
+16:19:06.849 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:06.850 - InitDbCommand -> Connect fail..
+16:19:06.853 - ToDataSet -> Object reference not set to an instance of an object.
+16:19:06.857 - GetAppConfig -> Need to check DB status
+16:19:07.771 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:07.774 - InitDbCommand -> Connect fail..
+16:19:07.776 - ToValue -> Object reference not set to an instance of an object.
+16:19:10.788 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:10.790 - InitDbCommand -> Connect fail..
+16:19:10.791 - ToValue -> Object reference not set to an instance of an object.
+16:19:11.771 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:11.774 - InitDbCommand -> Connect fail..
+16:19:11.776 - ToDataSet -> Object reference not set to an instance of an object.
+16:19:11.778 - GetAppConfig -> Need to check DB status
+16:19:13.782 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:13.783 - InitDbCommand -> Connect fail..
+16:19:13.784 - ToValue -> Object reference not set to an instance of an object.
+16:19:16.765 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:16.766 - InitDbCommand -> Connect fail..
+16:19:16.769 - ToValue -> Object reference not set to an instance of an object.
+16:19:16.797 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:16.799 - InitDbCommand -> Connect fail..
+16:19:16.800 - ToDataSet -> Object reference not set to an instance of an object.
+16:19:16.801 - GetAppConfig -> Need to check DB status
+16:19:19.789 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:19.791 - InitDbCommand -> Connect fail..
+16:19:19.792 - ToValue -> Object reference not set to an instance of an object.
+16:19:21.779 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:21.781 - InitDbCommand -> Connect fail..
+16:19:21.782 - ToDataSet -> Object reference not set to an instance of an object.
+16:19:21.783 - GetAppConfig -> Need to check DB status
+16:19:22.763 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:22.765 - InitDbCommand -> Connect fail..
+16:19:22.766 - ToValue -> Object reference not set to an instance of an object.
+16:19:25.763 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:25.764 - InitDbCommand -> Connect fail..
+16:19:25.766 - ToValue -> Object reference not set to an instance of an object.
+16:19:26.778 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:26.779 - InitDbCommand -> Connect fail..
+16:19:26.780 - ToDataSet -> Object reference not set to an instance of an object.
+16:19:26.782 - GetAppConfig -> Need to check DB status
+16:19:28.778 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:28.779 - InitDbCommand -> Connect fail..
+16:19:28.781 - ToValue -> Object reference not set to an instance of an object.
+16:19:31.762 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:31.764 - InitDbCommand -> Connect fail..
+16:19:31.766 - ToValue -> Object reference not set to an instance of an object.
+16:19:31.781 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:31.782 - InitDbCommand -> Connect fail..
+16:19:31.784 - ToDataSet -> Object reference not set to an instance of an object.
+16:19:31.785 - GetAppConfig -> Need to check DB status
+16:19:34.765 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:34.766 - InitDbCommand -> Connect fail..
+16:19:34.768 - ToValue -> Object reference not set to an instance of an object.
+16:19:36.775 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:36.776 - InitDbCommand -> Connect fail..
+16:19:36.778 - ToDataSet -> Object reference not set to an instance of an object.
+16:19:36.779 - GetAppConfig -> Need to check DB status
+16:19:37.777 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:37.778 - InitDbCommand -> Connect fail..
+16:19:37.779 - ToValue -> Object reference not set to an instance of an object.
+16:19:40.774 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:40.776 - InitDbCommand -> Connect fail..
+16:19:40.777 - ToValue -> Object reference not set to an instance of an object.
+16:19:41.759 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:41.760 - InitDbCommand -> Connect fail..
+16:19:41.761 - ToDataSet -> Object reference not set to an instance of an object.
+16:19:41.762 - GetAppConfig -> Need to check DB status
+16:19:43.772 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:43.774 - InitDbCommand -> Connect fail..
+16:19:43.775 - ToValue -> Object reference not set to an instance of an object.
+16:19:46.758 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:46.759 - InitDbCommand -> Connect fail..
+16:19:46.760 - ToValue -> Object reference not set to an instance of an object.
+16:19:46.791 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:46.792 - InitDbCommand -> Connect fail..
+16:19:46.793 - ToDataSet -> Object reference not set to an instance of an object.
+16:19:46.795 - GetAppConfig -> Need to check DB status
+16:19:49.758 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:49.759 - InitDbCommand -> Connect fail..
+16:19:49.760 - ToValue -> Object reference not set to an instance of an object.
+16:19:51.787 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:51.788 - InitDbCommand -> Connect fail..
+16:19:51.789 - ToDataSet -> Object reference not set to an instance of an object.
+16:19:51.790 - GetAppConfig -> Need to check DB status
+16:19:52.771 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:52.772 - InitDbCommand -> Connect fail..
+16:19:52.773 - ToValue -> Object reference not set to an instance of an object.
+16:19:55.772 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:55.773 - InitDbCommand -> Connect fail..
+16:19:55.774 - ToValue -> Object reference not set to an instance of an object.
+16:19:56.770 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:56.771 - InitDbCommand -> Connect fail..
+16:19:56.772 - ToDataSet -> Object reference not set to an instance of an object.
+16:19:56.773 - GetAppConfig -> Need to check DB status
+16:19:58.770 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:19:58.772 - InitDbCommand -> Connect fail..
+16:19:58.773 - ToValue -> Object reference not set to an instance of an object.
+16:20:01.785 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:01.786 - InitDbCommand -> Connect fail..
+16:20:01.787 - ToDataSet -> Object reference not set to an instance of an object.
+16:20:01.788 - GetAppConfig -> Need to check DB status
+16:20:04.784 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:04.785 - InitDbCommand -> Connect fail..
+16:20:04.786 - ToValue -> Object reference not set to an instance of an object.
+16:20:06.768 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:06.769 - InitDbCommand -> Connect fail..
+16:20:06.770 - ToDataSet -> Object reference not set to an instance of an object.
+16:20:06.772 - GetAppConfig -> Need to check DB status
+16:20:07.767 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:07.769 - InitDbCommand -> Connect fail..
+16:20:07.770 - ToValue -> Object reference not set to an instance of an object.
+16:20:10.766 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:10.768 - InitDbCommand -> Connect fail..
+16:20:10.770 - ToValue -> Object reference not set to an instance of an object.
+16:20:11.767 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:11.769 - InitDbCommand -> Connect fail..
+16:20:11.770 - ToDataSet -> Object reference not set to an instance of an object.
+16:20:11.771 - GetAppConfig -> Need to check DB status
+16:20:13.766 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:13.767 - InitDbCommand -> Connect fail..
+16:20:13.768 - ToValue -> Object reference not set to an instance of an object.
+16:20:16.773 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:16.775 - InitDbCommand -> Connect fail..
+16:20:16.776 - ToDataSet -> Object reference not set to an instance of an object.
+16:20:16.778 - GetAppConfig -> Need to check DB status
+16:20:16.798 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:16.799 - InitDbCommand -> Connect fail..
+16:20:16.800 - ToValue -> Object reference not set to an instance of an object.
+16:20:19.781 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:19.782 - InitDbCommand -> Connect fail..
+16:20:19.784 - ToValue -> Object reference not set to an instance of an object.
+16:20:21.786 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:21.787 - InitDbCommand -> Connect fail..
+16:20:21.789 - ToDataSet -> Object reference not set to an instance of an object.
+16:20:21.790 - GetAppConfig -> Need to check DB status
+16:20:22.764 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:22.765 - InitDbCommand -> Connect fail..
+16:20:22.766 - ToValue -> Object reference not set to an instance of an object.
+16:20:25.778 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:25.779 - InitDbCommand -> Connect fail..
+16:20:25.781 - ToValue -> Object reference not set to an instance of an object.
+16:20:26.763 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:26.764 - InitDbCommand -> Connect fail..
+16:20:26.766 - ToDataSet -> Object reference not set to an instance of an object.
+16:20:26.768 - GetAppConfig -> Need to check DB status
+16:20:28.785 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:28.786 - InitDbCommand -> Connect fail..
+16:20:28.787 - ToValue -> Object reference not set to an instance of an object.
+16:20:31.782 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:31.783 - ToDataSet -> Object reference not set to an instance of an object.
+16:20:31.784 - ToValue -> Object reference not set to an instance of an object.
+16:20:34.761 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:34.762 - InitDbCommand -> Connect fail..
+16:20:34.763 - ToValue -> Object reference not set to an instance of an object.
+16:20:36.760 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:36.762 - InitDbCommand -> Connect fail..
+16:20:36.763 - ToDataSet -> Object reference not set to an instance of an object.
+16:20:36.764 - GetAppConfig -> Need to check DB status
+16:20:37.775 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:37.777 - InitDbCommand -> Connect fail..
+16:20:37.778 - ToValue -> Object reference not set to an instance of an object.
+16:20:40.759 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:40.760 - InitDbCommand -> Connect fail..
+16:20:40.762 - ToValue -> Object reference not set to an instance of an object.
+16:20:41.776 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:41.778 - InitDbCommand -> Connect fail..
+16:20:41.780 - ToDataSet -> Object reference not set to an instance of an object.
+16:20:41.781 - GetAppConfig -> Need to check DB status
+16:20:43.806 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:43.808 - InitDbCommand -> Connect fail..
+16:20:43.816 - ToValue -> Object reference not set to an instance of an object.
+16:20:46.783 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:46.787 - InitDbCommand -> Connect fail..
+16:20:46.789 - ToValue -> Object reference not set to an instance of an object.
+16:20:46.832 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:46.833 - InitDbCommand -> Connect fail..
+16:20:46.836 - ToDataSet -> Object reference not set to an instance of an object.
+16:20:46.837 - GetAppConfig -> Need to check DB status
+16:20:49.771 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:49.773 - InitDbCommand -> Connect fail..
+16:20:49.774 - ToValue -> Object reference not set to an instance of an object.
+16:20:51.772 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:51.773 - InitDbCommand -> Connect fail..
+16:20:51.775 - ToDataSet -> Object reference not set to an instance of an object.
+16:20:51.776 - GetAppConfig -> Need to check DB status
+16:20:52.757 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:52.759 - InitDbCommand -> Connect fail..
+16:20:52.760 - ToValue -> Object reference not set to an instance of an object.
+16:20:55.770 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:55.772 - InitDbCommand -> Connect fail..
+16:20:55.774 - ToValue -> Object reference not set to an instance of an object.
+16:20:56.777 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:56.778 - InitDbCommand -> Connect fail..
+16:20:56.780 - ToDataSet -> Object reference not set to an instance of an object.
+16:20:56.782 - GetAppConfig -> Need to check DB status
+16:20:59.084 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:20:59.086 - InitDbCommand -> Connect fail..
+16:20:59.088 - ToValue -> Object reference not set to an instance of an object.
+16:21:01.769 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:01.770 - InitDbCommand -> Connect fail..
+16:21:01.771 - ToDataSet -> Object reference not set to an instance of an object.
+16:21:01.773 - GetAppConfig -> Need to check DB status
+16:21:01.786 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:01.788 - InitDbCommand -> Connect fail..
+16:21:01.789 - ToValue -> Object reference not set to an instance of an object.
+16:21:04.769 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:04.770 - InitDbCommand -> Connect fail..
+16:21:04.772 - ToValue -> Object reference not set to an instance of an object.
+16:21:06.849 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:06.851 - InitDbCommand -> Connect fail..
+16:21:06.857 - ToDataSet -> Object reference not set to an instance of an object.
+16:21:06.859 - GetAppConfig -> Need to check DB status
+16:21:07.799 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:07.800 - InitDbCommand -> Connect fail..
+16:21:07.801 - ToValue -> Object reference not set to an instance of an object.
+16:21:10.767 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:10.768 - InitDbCommand -> Connect fail..
+16:21:10.769 - ToValue -> Object reference not set to an instance of an object.
+16:21:11.767 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:11.768 - InitDbCommand -> Connect fail..
+16:21:11.769 - ToDataSet -> Object reference not set to an instance of an object.
+16:21:11.770 - GetAppConfig -> Need to check DB status
+16:21:13.766 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:13.767 - InitDbCommand -> Connect fail..
+16:21:13.768 - ToValue -> Object reference not set to an instance of an object.
+16:21:16.766 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:16.767 - InitDbCommand -> Connect fail..
+16:21:16.769 - ToValue -> Object reference not set to an instance of an object.
+16:21:16.770 - ToDataSet -> Object reference not set to an instance of an object.
+16:21:16.772 - GetAppConfig -> Need to check DB status
+16:21:19.780 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:19.781 - InitDbCommand -> Connect fail..
+16:21:19.783 - ToValue -> Object reference not set to an instance of an object.
+16:21:21.788 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:21.790 - InitDbCommand -> Connect fail..
+16:21:21.791 - ToDataSet -> Object reference not set to an instance of an object.
+16:21:21.792 - GetAppConfig -> Need to check DB status
+16:21:22.779 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:22.781 - InitDbCommand -> Connect fail..
+16:21:22.782 - ToValue -> Object reference not set to an instance of an object.
+16:21:25.763 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:25.764 - InitDbCommand -> Connect fail..
+16:21:25.765 - ToValue -> Object reference not set to an instance of an object.
+16:21:26.764 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:26.766 - InitDbCommand -> Connect fail..
+16:21:26.768 - ToDataSet -> Object reference not set to an instance of an object.
+16:21:26.770 - GetAppConfig -> Need to check DB status
+16:21:28.765 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:28.766 - InitDbCommand -> Connect fail..
+16:21:28.768 - ToValue -> Object reference not set to an instance of an object.
+16:21:31.793 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:31.794 - InitDbCommand -> Connect fail..
+16:21:31.795 - ToDataSet -> Object reference not set to an instance of an object.
+16:21:31.797 - GetAppConfig -> Need to check DB status
+16:21:34.791 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:34.793 - InitDbCommand -> Connect fail..
+16:21:34.794 - ToValue -> Object reference not set to an instance of an object.
+16:21:36.762 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:36.763 - InitDbCommand -> Connect fail..
+16:21:36.764 - ToDataSet -> Object reference not set to an instance of an object.
+16:21:36.765 - GetAppConfig -> Need to check DB status
+16:21:37.776 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:37.777 - InitDbCommand -> Connect fail..
+16:21:37.778 - ToValue -> Object reference not set to an instance of an object.
+16:21:40.775 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:40.776 - InitDbCommand -> Connect fail..
+16:21:40.777 - ToValue -> Object reference not set to an instance of an object.
+16:21:41.774 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:41.775 - InitDbCommand -> Connect fail..
+16:21:41.777 - ToDataSet -> Object reference not set to an instance of an object.
+16:21:41.778 - GetAppConfig -> Need to check DB status
+16:21:43.774 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:43.775 - InitDbCommand -> Connect fail..
+16:21:43.776 - ToValue -> Object reference not set to an instance of an object.
+16:21:46.757 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:46.759 - InitDbCommand -> Connect fail..
+16:21:46.760 - ToValue -> Object reference not set to an instance of an object.
+16:21:46.773 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:46.775 - InitDbCommand -> Connect fail..
+16:21:46.776 - ToDataSet -> Object reference not set to an instance of an object.
+16:21:46.778 - GetAppConfig -> Need to check DB status
+16:21:49.772 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:49.773 - InitDbCommand -> Connect fail..
+16:21:49.775 - ToValue -> Object reference not set to an instance of an object.
+16:21:51.787 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:51.789 - InitDbCommand -> Connect fail..
+16:21:51.790 - ToDataSet -> Object reference not set to an instance of an object.
+16:21:51.791 - GetAppConfig -> Need to check DB status
+16:21:52.756 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:52.757 - InitDbCommand -> Connect fail..
+16:21:52.758 - ToValue -> Object reference not set to an instance of an object.
+16:21:55.755 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:55.756 - InitDbCommand -> Connect fail..
+16:21:55.758 - ToValue -> Object reference not set to an instance of an object.
+16:21:56.771 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:56.772 - InitDbCommand -> Connect fail..
+16:21:56.773 - ToDataSet -> Object reference not set to an instance of an object.
+16:21:56.775 - GetAppConfig -> Need to check DB status
+16:21:58.755 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:21:58.756 - InitDbCommand -> Connect fail..
+16:21:58.757 - ToValue -> Object reference not set to an instance of an object.
+16:22:01.768 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:01.769 - InitDbCommand -> Connect fail..
+16:22:01.771 - ToDataSet -> Object reference not set to an instance of an object.
+16:22:01.772 - GetAppConfig -> Need to check DB status
+16:22:01.784 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:01.785 - InitDbCommand -> Connect fail..
+16:22:01.787 - ToValue -> Object reference not set to an instance of an object.
+16:22:04.754 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:04.755 - InitDbCommand -> Connect fail..
+16:22:04.757 - ToValue -> Object reference not set to an instance of an object.
+16:22:06.768 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:06.771 - InitDbCommand -> Connect fail..
+16:22:06.774 - ToDataSet -> Object reference not set to an instance of an object.
+16:22:06.775 - GetAppConfig -> Need to check DB status
+16:22:07.767 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:07.769 - InitDbCommand -> Connect fail..
+16:22:07.770 - ToValue -> Object reference not set to an instance of an object.
+16:22:10.783 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:10.785 - InitDbCommand -> Connect fail..
+16:22:10.787 - ToValue -> Object reference not set to an instance of an object.
+16:22:11.780 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:11.782 - InitDbCommand -> Connect fail..
+16:22:11.784 - ToDataSet -> Object reference not set to an instance of an object.
+16:22:11.785 - GetAppConfig -> Need to check DB status
+16:22:13.798 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:13.799 - InitDbCommand -> Connect fail..
+16:22:13.801 - ToValue -> Object reference not set to an instance of an object.
+16:22:16.766 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:16.767 - InitDbCommand -> Connect fail..
+16:22:16.768 - ToValue -> Object reference not set to an instance of an object.
+16:22:16.781 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:16.782 - InitDbCommand -> Connect fail..
+16:22:16.784 - ToDataSet -> Object reference not set to an instance of an object.
+16:22:16.785 - GetAppConfig -> Need to check DB status
+16:22:19.765 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:19.766 - InitDbCommand -> Connect fail..
+16:22:19.767 - ToValue -> Object reference not set to an instance of an object.
+16:22:21.764 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:21.765 - InitDbCommand -> Connect fail..
+16:22:21.766 - ToDataSet -> Object reference not set to an instance of an object.
+16:22:21.768 - GetAppConfig -> Need to check DB status
+16:22:22.764 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:22.765 - InitDbCommand -> Connect fail..
+16:22:22.766 - ToValue -> Object reference not set to an instance of an object.
+16:22:25.747 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:25.748 - InitDbCommand -> Connect fail..
+16:22:25.750 - ToValue -> Object reference not set to an instance of an object.
+16:22:26.750 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:26.751 - InitDbCommand -> Connect fail..
+16:22:26.753 - ToDataSet -> Object reference not set to an instance of an object.
+16:22:26.754 - GetAppConfig -> Need to check DB status
+16:22:28.856 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:28.857 - InitDbCommand -> Connect fail..
+16:22:28.858 - ToValue -> Object reference not set to an instance of an object.
+16:22:31.761 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:31.763 - InitDbCommand -> Connect fail..
+16:22:31.764 - ToDataSet -> Object reference not set to an instance of an object.
+16:22:31.766 - GetAppConfig -> Need to check DB status
+16:22:31.777 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:31.778 - InitDbCommand -> Connect fail..
+16:22:31.780 - ToValue -> Object reference not set to an instance of an object.
+16:22:34.776 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:34.777 - InitDbCommand -> Connect fail..
+16:22:34.779 - ToValue -> Object reference not set to an instance of an object.
+16:22:36.775 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:36.777 - InitDbCommand -> Connect fail..
+16:22:36.778 - ToDataSet -> Object reference not set to an instance of an object.
+16:22:36.779 - GetAppConfig -> Need to check DB status
+16:22:37.776 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:37.777 - InitDbCommand -> Connect fail..
+16:22:37.780 - ToValue -> Object reference not set to an instance of an object.
+16:22:40.775 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:40.776 - InitDbCommand -> Connect fail..
+16:22:40.777 - ToValue -> Object reference not set to an instance of an object.
+16:22:41.775 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:41.776 - InitDbCommand -> Connect fail..
+16:22:41.777 - ToDataSet -> Object reference not set to an instance of an object.
+16:22:41.778 - GetAppConfig -> Need to check DB status
+16:22:43.758 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:43.759 - InitDbCommand -> Connect fail..
+16:22:43.760 - ToValue -> Object reference not set to an instance of an object.
+16:22:46.762 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:46.763 - InitDbCommand -> Connect fail..
+16:22:46.764 - ToDataSet -> Object reference not set to an instance of an object.
+16:22:46.765 - GetAppConfig -> Need to check DB status
+16:22:46.790 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:46.792 - InitDbCommand -> Connect fail..
+16:22:46.793 - ToValue -> Object reference not set to an instance of an object.
+16:22:49.772 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:49.774 - InitDbCommand -> Connect fail..
+16:22:49.775 - ToValue -> Object reference not set to an instance of an object.
+16:22:51.772 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:51.773 - InitDbCommand -> Connect fail..
+16:22:51.775 - ToDataSet -> Object reference not set to an instance of an object.
+16:22:51.776 - GetAppConfig -> Need to check DB status
+16:22:52.756 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:52.757 - InitDbCommand -> Connect fail..
+16:22:52.758 - ToValue -> Object reference not set to an instance of an object.
+16:22:55.771 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:55.772 - InitDbCommand -> Connect fail..
+16:22:55.773 - ToValue -> Object reference not set to an instance of an object.
+16:22:56.755 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:56.756 - InitDbCommand -> Connect fail..
+16:22:56.757 - ToDataSet -> Object reference not set to an instance of an object.
+16:22:56.759 - GetAppConfig -> Need to check DB status
+16:22:58.785 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:22:58.787 - InitDbCommand -> Connect fail..
+16:22:58.788 - ToValue -> Object reference not set to an instance of an object.
+16:23:01.785 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:01.786 - InitDbCommand -> Connect fail..
+16:23:01.787 - ToValue -> Object reference not set to an instance of an object.
+16:23:01.801 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:01.802 - InitDbCommand -> Connect fail..
+16:23:01.804 - ToDataSet -> Object reference not set to an instance of an object.
+16:23:01.805 - GetAppConfig -> Need to check DB status
+16:23:04.768 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:04.770 - InitDbCommand -> Connect fail..
+16:23:04.771 - ToValue -> Object reference not set to an instance of an object.
+16:23:06.783 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:06.785 - InitDbCommand -> Connect fail..
+16:23:06.786 - ToDataSet -> Object reference not set to an instance of an object.
+16:23:06.787 - GetAppConfig -> Need to check DB status
+16:23:07.768 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:07.769 - InitDbCommand -> Connect fail..
+16:23:07.770 - ToValue -> Object reference not set to an instance of an object.
+16:23:10.768 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:10.769 - InitDbCommand -> Connect fail..
+16:23:10.770 - ToValue -> Object reference not set to an instance of an object.
+16:23:11.767 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:11.768 - InitDbCommand -> Connect fail..
+16:23:11.769 - ToDataSet -> Object reference not set to an instance of an object.
+16:23:11.770 - GetAppConfig -> Need to check DB status
+16:23:13.766 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:13.767 - InitDbCommand -> Connect fail..
+16:23:13.768 - ToValue -> Object reference not set to an instance of an object.
+16:23:16.766 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:16.767 - ToValue -> Object reference not set to an instance of an object.
+16:23:16.768 - ToDataSet -> Object reference not set to an instance of an object.
+16:23:16.770 - GetAppConfig -> Need to check DB status
+16:23:19.765 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:19.766 - InitDbCommand -> Connect fail..
+16:23:19.767 - ToValue -> Object reference not set to an instance of an object.
+16:23:21.764 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:21.765 - InitDbCommand -> Connect fail..
+16:23:21.766 - ToDataSet -> Object reference not set to an instance of an object.
+16:23:21.767 - GetAppConfig -> Need to check DB status
+16:23:22.779 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:22.781 - InitDbCommand -> Connect fail..
+16:23:22.782 - ToValue -> Object reference not set to an instance of an object.
+16:23:25.763 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:25.764 - InitDbCommand -> Connect fail..
+16:23:25.765 - ToValue -> Object reference not set to an instance of an object.
+16:23:26.763 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:26.764 - InitDbCommand -> Connect fail..
+16:23:26.765 - ToDataSet -> Object reference not set to an instance of an object.
+16:23:26.766 - GetAppConfig -> Need to check DB status
+16:23:28.762 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:28.764 - InitDbCommand -> Connect fail..
+16:23:28.765 - ToValue -> Object reference not set to an instance of an object.
+16:23:31.764 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:31.765 - InitDbCommand -> Connect fail..
+16:23:31.768 - ToValue -> Object reference not set to an instance of an object.
+16:23:31.784 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:31.787 - InitDbCommand -> Connect fail..
+16:23:31.789 - ToDataSet -> Object reference not set to an instance of an object.
+16:23:31.792 - GetAppConfig -> Need to check DB status
+16:23:34.761 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:34.762 - InitDbCommand -> Connect fail..
+16:23:34.764 - ToValue -> Object reference not set to an instance of an object.
+16:23:36.761 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:36.762 - InitDbCommand -> Connect fail..
+16:23:36.763 - ToDataSet -> Object reference not set to an instance of an object.
+16:23:36.764 - GetAppConfig -> Need to check DB status
+16:23:37.760 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:37.762 - InitDbCommand -> Connect fail..
+16:23:37.763 - ToValue -> Object reference not set to an instance of an object.
+16:23:40.774 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:40.776 - InitDbCommand -> Connect fail..
+16:23:40.777 - ToValue -> Object reference not set to an instance of an object.
+16:23:41.774 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:41.775 - InitDbCommand -> Connect fail..
+16:23:41.776 - ToDataSet -> Object reference not set to an instance of an object.
+16:23:41.778 - GetAppConfig -> Need to check DB status
+16:23:43.785 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:43.786 - InitDbCommand -> Connect fail..
+16:23:43.791 - ToValue -> Object reference not set to an instance of an object.
+16:23:46.772 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:46.773 - InitDbCommand -> Connect fail..
+16:23:46.775 - GetAppConfig -> Need to check DB status
+16:23:49.772 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:49.773 - InitDbCommand -> Connect fail..
+16:23:49.775 - ToValue -> Object reference not set to an instance of an object.
+16:23:51.756 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:51.757 - InitDbCommand -> Connect fail..
+16:23:51.758 - ToDataSet -> Object reference not set to an instance of an object.
+16:23:51.759 - GetAppConfig -> Need to check DB status
+16:23:52.757 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:23:52.761 - InitDbCommand -> Connect fail..
+16:23:52.762 - ToValue -> Object reference not set to an instance of an object.
+16:24:03.212 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:24:03.497 - InitDbCommand -> Connect fail..
+16:26:03.440 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:26:03.503 - InitDbCommand -> Connect fail..
+16:26:17.683 - ToDataSet -> Object reference not set to an instance of an object.
+16:26:28.806 - GetAppConfig -> Need to check DB status
+16:26:31.996 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:26:32.036 - InitDbCommand -> Connect fail..
+16:52:40.660 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:52:40.709 - InitDbCommand -> Connect fail..
+16:58:00.160 - ToDataSet -> Object reference not set to an instance of an object.
+16:58:00.259 - GetAppConfig -> Need to check DB status
+16:58:04.433 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+16:58:04.483 - InitDbCommand -> Connect fail..
+17:13:06.849 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:13:06.899 - InitDbCommand -> Connect fail..
+17:15:48.366 - ToDataSet -> Object reference not set to an instance of an object.
+17:15:48.455 - GetAppConfig -> Need to check DB status
+17:15:51.601 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:15:51.647 - InitDbCommand -> Connect fail..
+17:51:34.821 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:51:34.824 - InitDbCommand -> Connect fail..
+17:51:34.826 - ToDataSet -> Object reference not set to an instance of an object.
+17:51:34.828 - GetAppConfig -> Need to check DB status
+17:51:36.925 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:51:36.926 - InitDbCommand -> Connect fail..
+17:51:36.927 - ToDataSet -> Object reference not set to an instance of an object.
+17:51:36.928 - GetAppConfig -> Need to check DB status
+17:51:37.910 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:51:37.911 - InitDbCommand -> Connect fail..
+17:51:37.913 - ToValue -> Object reference not set to an instance of an object.
+17:51:40.910 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:51:40.911 - InitDbCommand -> Connect fail..
+17:51:40.913 - ToValue -> Object reference not set to an instance of an object.
+17:51:41.914 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:51:41.916 - InitDbCommand -> Connect fail..
+17:51:41.917 - ToDataSet -> Object reference not set to an instance of an object.
+17:51:41.919 - GetAppConfig -> Need to check DB status
+17:51:43.892 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:51:43.894 - InitDbCommand -> Connect fail..
+17:51:43.895 - ToValue -> Object reference not set to an instance of an object.
+17:51:46.892 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:51:46.893 - InitDbCommand -> Connect fail..
+17:51:46.895 - ToValue -> Object reference not set to an instance of an object.
+17:51:46.908 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:51:46.910 - InitDbCommand -> Connect fail..
+17:51:46.912 - ToDataSet -> Object reference not set to an instance of an object.
+17:51:46.914 - GetAppConfig -> Need to check DB status
+17:51:49.906 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:51:49.907 - InitDbCommand -> Connect fail..
+17:51:49.909 - ToValue -> Object reference not set to an instance of an object.
+17:51:51.905 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:51:51.907 - InitDbCommand -> Connect fail..
+17:51:51.908 - ToDataSet -> Object reference not set to an instance of an object.
+17:51:51.910 - GetAppConfig -> Need to check DB status
+17:51:52.906 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:51:52.908 - InitDbCommand -> Connect fail..
+17:51:52.909 - ToValue -> Object reference not set to an instance of an object.
+17:51:55.905 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:51:55.906 - InitDbCommand -> Connect fail..
+17:51:55.907 - ToValue -> Object reference not set to an instance of an object.
+17:51:56.904 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:51:56.905 - InitDbCommand -> Connect fail..
+17:51:56.907 - ToDataSet -> Object reference not set to an instance of an object.
+17:51:56.908 - GetAppConfig -> Need to check DB status
+17:51:58.903 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:51:58.905 - InitDbCommand -> Connect fail..
+17:51:58.907 - ToValue -> Object reference not set to an instance of an object.
+17:52:01.904 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:01.905 - InitDbCommand -> Connect fail..
+17:52:01.906 - ToDataSet -> Object reference not set to an instance of an object.
+17:52:01.907 - GetAppConfig -> Need to check DB status
+17:52:01.920 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:01.921 - InitDbCommand -> Connect fail..
+17:52:01.923 - ToValue -> Object reference not set to an instance of an object.
+17:52:04.902 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:04.904 - InitDbCommand -> Connect fail..
+17:52:04.905 - ToValue -> Object reference not set to an instance of an object.
+17:52:06.902 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:06.903 - InitDbCommand -> Connect fail..
+17:52:06.904 - ToDataSet -> Object reference not set to an instance of an object.
+17:52:06.905 - GetAppConfig -> Need to check DB status
+17:52:07.911 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:07.913 - InitDbCommand -> Connect fail..
+17:52:07.914 - ToValue -> Object reference not set to an instance of an object.
+17:52:10.901 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:10.903 - InitDbCommand -> Connect fail..
+17:52:10.904 - ToValue -> Object reference not set to an instance of an object.
+17:52:11.884 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:11.886 - InitDbCommand -> Connect fail..
+17:52:11.887 - ToDataSet -> Object reference not set to an instance of an object.
+17:52:11.888 - GetAppConfig -> Need to check DB status
+17:52:13.885 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:13.887 - InitDbCommand -> Connect fail..
+17:52:13.888 - ToValue -> Object reference not set to an instance of an object.
+17:52:16.884 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:16.885 - InitDbCommand -> Connect fail..
+17:52:16.886 - ToValue -> Object reference not set to an instance of an object.
+17:52:16.903 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:16.905 - InitDbCommand -> Connect fail..
+17:52:16.906 - ToDataSet -> Object reference not set to an instance of an object.
+17:52:16.908 - GetAppConfig -> Need to check DB status
+17:52:19.898 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:19.900 - InitDbCommand -> Connect fail..
+17:52:19.902 - ToValue -> Object reference not set to an instance of an object.
+17:52:21.898 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:21.899 - InitDbCommand -> Connect fail..
+17:52:21.901 - ToDataSet -> Object reference not set to an instance of an object.
+17:52:21.902 - GetAppConfig -> Need to check DB status
+17:52:22.897 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:22.899 - InitDbCommand -> Connect fail..
+17:52:22.901 - ToValue -> Object reference not set to an instance of an object.
+17:52:25.896 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:25.897 - InitDbCommand -> Connect fail..
+17:52:25.898 - ToValue -> Object reference not set to an instance of an object.
+17:52:26.899 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:26.900 - InitDbCommand -> Connect fail..
+17:52:26.901 - ToDataSet -> Object reference not set to an instance of an object.
+17:52:26.903 - GetAppConfig -> Need to check DB status
+17:52:28.911 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:28.913 - InitDbCommand -> Connect fail..
+17:52:28.915 - ToValue -> Object reference not set to an instance of an object.
+17:52:31.895 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:31.897 - InitDbCommand -> Connect fail..
+17:52:31.898 - ToValue -> Object reference not set to an instance of an object.
+17:52:31.910 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:31.913 - InitDbCommand -> Connect fail..
+17:52:31.914 - ToDataSet -> Object reference not set to an instance of an object.
+17:52:31.916 - GetAppConfig -> Need to check DB status
+17:52:34.895 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:34.896 - InitDbCommand -> Connect fail..
+17:52:34.898 - ToValue -> Object reference not set to an instance of an object.
+17:52:36.917 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:36.918 - InitDbCommand -> Connect fail..
+17:52:36.919 - ToDataSet -> Object reference not set to an instance of an object.
+17:52:36.920 - GetAppConfig -> Need to check DB status
+17:52:37.893 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:37.895 - InitDbCommand -> Connect fail..
+17:52:37.896 - ToValue -> Object reference not set to an instance of an object.
+17:52:40.893 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:40.895 - InitDbCommand -> Connect fail..
+17:52:40.897 - ToValue -> Object reference not set to an instance of an object.
+17:52:41.892 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:41.893 - InitDbCommand -> Connect fail..
+17:52:41.895 - ToDataSet -> Object reference not set to an instance of an object.
+17:52:41.896 - GetAppConfig -> Need to check DB status
+17:52:43.892 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:43.893 - InitDbCommand -> Connect fail..
+17:52:43.894 - ToValue -> Object reference not set to an instance of an object.
+17:52:46.893 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:46.895 - InitDbCommand -> Connect fail..
+17:52:46.897 - ToDataSet -> Object reference not set to an instance of an object.
+17:52:46.902 - GetAppConfig -> Need to check DB status
+17:52:46.910 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:46.913 - InitDbCommand -> Connect fail..
+17:52:46.915 - ToValue -> Object reference not set to an instance of an object.
+17:52:49.908 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:49.910 - InitDbCommand -> Connect fail..
+17:52:49.912 - ToValue -> Object reference not set to an instance of an object.
+17:52:51.906 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:51.907 - InitDbCommand -> Connect fail..
+17:52:51.908 - ToDataSet -> Object reference not set to an instance of an object.
+17:52:51.909 - GetAppConfig -> Need to check DB status
+17:52:52.889 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:52.891 - InitDbCommand -> Connect fail..
+17:52:52.892 - ToValue -> Object reference not set to an instance of an object.
+17:52:55.903 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:55.905 - InitDbCommand -> Connect fail..
+17:52:55.906 - ToValue -> Object reference not set to an instance of an object.
+17:52:56.888 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:56.889 - InitDbCommand -> Connect fail..
+17:52:56.891 - ToDataSet -> Object reference not set to an instance of an object.
+17:52:56.892 - GetAppConfig -> Need to check DB status
+17:52:58.919 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:52:58.920 - InitDbCommand -> Connect fail..
+17:52:58.922 - ToValue -> Object reference not set to an instance of an object.
+17:53:01.918 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:01.919 - InitDbCommand -> Connect fail..
+17:53:01.921 - ToValue -> Object reference not set to an instance of an object.
+17:53:01.922 - GetAppConfig -> Need to check DB status
+17:53:04.902 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:04.903 - InitDbCommand -> Connect fail..
+17:53:04.905 - ToValue -> Object reference not set to an instance of an object.
+17:53:06.901 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:06.903 - InitDbCommand -> Connect fail..
+17:53:06.904 - ToDataSet -> Object reference not set to an instance of an object.
+17:53:06.905 - GetAppConfig -> Need to check DB status
+17:53:07.901 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:07.902 - InitDbCommand -> Connect fail..
+17:53:07.904 - ToValue -> Object reference not set to an instance of an object.
+17:53:10.916 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:10.919 - InitDbCommand -> Connect fail..
+17:53:10.926 - ToValue -> Object reference not set to an instance of an object.
+17:53:11.919 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:11.921 - InitDbCommand -> Connect fail..
+17:53:11.922 - ToDataSet -> Object reference not set to an instance of an object.
+17:53:11.923 - GetAppConfig -> Need to check DB status
+17:53:13.916 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:13.917 - InitDbCommand -> Connect fail..
+17:53:13.919 - ToValue -> Object reference not set to an instance of an object.
+17:53:16.899 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:16.900 - InitDbCommand -> Connect fail..
+17:53:16.901 - InitDbCommand -> Connect fail..
+17:53:16.903 - GetAppConfig -> Need to check DB status
+17:53:19.945 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:19.946 - InitDbCommand -> Connect fail..
+17:53:19.948 - ToValue -> Object reference not set to an instance of an object.
+17:53:21.897 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:21.899 - InitDbCommand -> Connect fail..
+17:53:21.901 - ToDataSet -> Object reference not set to an instance of an object.
+17:53:21.902 - GetAppConfig -> Need to check DB status
+17:53:22.898 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:22.900 - InitDbCommand -> Connect fail..
+17:53:22.901 - ToValue -> Object reference not set to an instance of an object.
+17:53:25.914 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:25.915 - InitDbCommand -> Connect fail..
+17:53:25.917 - ToValue -> Object reference not set to an instance of an object.
+17:53:26.909 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:26.910 - InitDbCommand -> Connect fail..
+17:53:26.912 - ToDataSet -> Object reference not set to an instance of an object.
+17:53:26.913 - GetAppConfig -> Need to check DB status
+17:53:28.911 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:28.913 - InitDbCommand -> Connect fail..
+17:53:28.914 - ToValue -> Object reference not set to an instance of an object.
+17:53:31.894 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:31.896 - InitDbCommand -> Connect fail..
+17:53:31.897 - ToValue -> Object reference not set to an instance of an object.
+17:53:31.966 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:31.968 - InitDbCommand -> Connect fail..
+17:53:31.989 - ToDataSet -> Object reference not set to an instance of an object.
+17:53:31.991 - GetAppConfig -> Need to check DB status
+17:53:34.894 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:34.896 - InitDbCommand -> Connect fail..
+17:53:34.897 - ToValue -> Object reference not set to an instance of an object.
+17:53:36.893 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:36.895 - InitDbCommand -> Connect fail..
+17:53:36.896 - ToDataSet -> Object reference not set to an instance of an object.
+17:53:36.897 - GetAppConfig -> Need to check DB status
+17:53:37.936 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:37.938 - InitDbCommand -> Connect fail..
+17:53:37.939 - ToValue -> Object reference not set to an instance of an object.
+17:53:40.912 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:40.915 - InitDbCommand -> Connect fail..
+17:53:40.917 - ToValue -> Object reference not set to an instance of an object.
+17:53:41.930 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:41.932 - InitDbCommand -> Connect fail..
+17:53:41.933 - ToDataSet -> Object reference not set to an instance of an object.
+17:53:41.935 - GetAppConfig -> Need to check DB status
+17:53:43.911 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:43.912 - InitDbCommand -> Connect fail..
+17:53:43.914 - ToValue -> Object reference not set to an instance of an object.
+17:53:46.897 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:46.898 - InitDbCommand -> Connect fail..
+17:53:46.899 - ToDataSet -> Object reference not set to an instance of an object.
+17:53:46.901 - GetAppConfig -> Need to check DB status
+17:53:46.923 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:46.925 - InitDbCommand -> Connect fail..
+17:53:46.926 - ToValue -> Object reference not set to an instance of an object.
+17:53:49.916 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:49.918 - InitDbCommand -> Connect fail..
+17:53:49.919 - ToValue -> Object reference not set to an instance of an object.
+17:53:51.928 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:51.930 - InitDbCommand -> Connect fail..
+17:53:51.932 - ToDataSet -> Object reference not set to an instance of an object.
+17:53:51.933 - GetAppConfig -> Need to check DB status
+17:53:52.891 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:52.894 - InitDbCommand -> Connect fail..
+17:53:52.896 - ToValue -> Object reference not set to an instance of an object.
+17:53:55.907 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:55.909 - InitDbCommand -> Connect fail..
+17:53:55.910 - ToValue -> Object reference not set to an instance of an object.
+17:53:56.906 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:56.908 - InitDbCommand -> Connect fail..
+17:53:56.910 - ToDataSet -> Object reference not set to an instance of an object.
+17:53:56.911 - GetAppConfig -> Need to check DB status
+17:53:58.920 - DBConnect -> ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+17:53:58.922 - InitDbCommand -> Connect fail..
+17:53:58.925 - ToValue -> Object reference not set to an instance of an object.

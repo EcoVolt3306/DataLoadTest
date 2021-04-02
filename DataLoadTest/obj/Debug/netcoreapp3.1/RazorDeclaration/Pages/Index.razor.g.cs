@@ -159,14 +159,13 @@ using Global;
 #nullable restore
 #line 57 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
                                     
-            
-        }
-        else
-        {
-            Console.Out.WriteLine("Load blazor.server.js");
-        }
-        base.OnAfterRender(firstRender);
+         }
+    else
+    {
+        Console.Out.WriteLine("Load blazor.server.js");
     }
+    base.OnAfterRender(firstRender);
+}
 
 
 

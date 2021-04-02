@@ -7,16 +7,31 @@ namespace Global
 {
     public class gVar
     {
-        public static string Provider { get; set; } = "DTK";
+        //public static string column1 { get; set; } = "C1";
+        //public static string column2 { get; set; } = "C2";
+        //public static string column3 { get; set; } = "C3";
+        //public static string column4 { get; set; } = "C4";
+        //public static string column5 { get; set; } = "C5";
+        //public static string column6 { get; set; } = "C6";
+        //public static string column7 { get; set; } = "C7";
+        //public static string column8 { get; set; } = "C8";
+        //public static string column9 { get; set; } = "C9";
+        //public static string column10 { get; set; } = "C10";
+        //public static string column11 { get; set; } = "C11";
+        //public static string column12 { get; set; } = "C12";
+        //public static string column13 { get; set; } = "C13";
+        //public static string column14 { get; set; } = "C14";
+        //public static string column15 { get; set; } = "C15";
 
-        public static string CustName { get; set; } = "Cust Name";
-        public static string CustFullName { get; set; } = "Cust Full Name";
-        public static string AppName { get; set; } = "Title";
-        public static string AppFullName { get; set; } = "Full Title";
+        // 2-dimensional array
+        public static string[,] col = new string[15, 5];    
+       
 
-        public static string AppTitle { get; set; } = "App Title";
 
-        public static string WorkFlagHour { get; set; } = "8";
+
+
+
+
 
         public static AppThemeData AppThemeInfo = new AppThemeData();
 

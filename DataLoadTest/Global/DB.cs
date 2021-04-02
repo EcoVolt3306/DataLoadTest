@@ -17,7 +17,7 @@ namespace Global
             "(SID=orcl)))";
 
         private static int columnCount = 15;
-        private static int loadCount = 5;
+        //private static int loadCount = 5;
 
         public static string[] column1 = new string[columnCount];
         public static string[] column2 = new string[columnCount];

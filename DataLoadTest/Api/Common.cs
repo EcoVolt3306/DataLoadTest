@@ -11,6 +11,105 @@ namespace Api
 {
     public class Common
     {
+        public static DataTable GetMillon() {
+
+            DataTable result = null;
+
+            try
+            {
+                using (var db = new glClass.DBConn.DBConn(gVar.DBInfo, gVar.DBType))
+                {
+                    try
+                    {
+                        object dbParams = null;
+
+                        switch (gVar.DBType)
+                        {
+                            case glClass.DBConn.DBMS.MSSql:
+                                break;
+                            case glClass.DBConn.DBMS.PostgreSql:
+                                break;
+                            case glClass.DBConn.DBMS.Oracle:
+                            default:
+                                dbParams = new glClass.DBConn.OraParams();
+
+                                (dbParams as glClass.DBConn.OraParams).CmdType = CommandType.StoredProcedure;
+                                (dbParams as glClass.DBConn.OraParams).CmdText = "LOAD_MIL.SP_LOAD_MIL";
+
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("P_MNG_TYPE", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN1", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN2", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN3", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN4", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN5", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN6", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN7", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN8", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN9", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN10", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN11", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN12", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN13", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN14", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN15", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("cur_DATA", Oracle.ManagedDataAccess.Client.OracleDbType.RefCursor));
+                                (dbParams as glClass.DBConn.OraParams).Params[(dbParams as glClass.DBConn.OraParams).Params.Count - 1].Direction = ParameterDirection.Output;
+
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("P_MNG_TYPE", "get");
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN1", string.Empty);
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN2", string.Empty);
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN3", string.Empty);
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN4", string.Empty);
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN5", string.Empty);
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN6", string.Empty);
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN7", string.Empty);
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN8", string.Empty);
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN9", string.Empty);
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN10", string.Empty);
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN11", string.Empty);
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN12", string.Empty);
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN13", string.Empty);
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN14", string.Empty);
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN15", string.Empty);
+                                break;
+                        }
+
+                        using (var dt = db.ToDataTable(dbParams))
+                        {
+                            if ((dt != null) && (dt.Rows.Count > 0))
+                            {
+                                result = dt;
+                            }
+                            else
+                            {
+                                throw new Exception("ER1 Need to check DB status");
+                            }
+
+                            dt.Dispose();
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        throw ex;
+                    }
+                    finally
+                    {
+                        db.Dispose();
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("GetMillon ERROR > " + ex);
+
+                result = null;
+            }
+
+
+            return result;
+        }
+
         public static DataTable GetAppConfig()
         {
             DataTable result = null;
@@ -25,38 +124,38 @@ namespace Api
 
                         switch (gVar.DBType)
                         {
-                            //case glClass.DBConn.DBMS.MSSql:
-                            //    break;
-                            //case glClass.DBConn.DBMS.PostgreSql:
-                            //    dbParams = new glClass.DBConn.PostParams();
+                            case glClass.DBConn.DBMS.MSSql:
+                                break;
+                            case glClass.DBConn.DBMS.PostgreSql:
+                                dbParams = new glClass.DBConn.PostParams();
 
-                            //    (dbParams as glClass.DBConn.PostParams).CmdType = CommandType.StoredProcedure;
-                            //    (dbParams as glClass.DBConn.PostParams).CmdText = "public.mgmt_common_app_config_mng";
+                                (dbParams as glClass.DBConn.PostParams).CmdType = CommandType.StoredProcedure;
+                                (dbParams as glClass.DBConn.PostParams).CmdText = "public.mgmt_common_app_config_mng";
 
-                            //    (dbParams as glClass.DBConn.PostParams).Params.Add(new Npgsql.NpgsqlParameter("p_mng_type", NpgsqlTypes.NpgsqlDbType.Text));
-                            //    (dbParams as glClass.DBConn.PostParams).Params.Add(new Npgsql.NpgsqlParameter("p_config_type", NpgsqlTypes.NpgsqlDbType.Text));
-                            //    (dbParams as glClass.DBConn.PostParams).Params.Add(new Npgsql.NpgsqlParameter("p_config_value", NpgsqlTypes.NpgsqlDbType.Text));
+                                (dbParams as glClass.DBConn.PostParams).Params.Add(new Npgsql.NpgsqlParameter("p_mng_type", NpgsqlTypes.NpgsqlDbType.Text));
+                                (dbParams as glClass.DBConn.PostParams).Params.Add(new Npgsql.NpgsqlParameter("p_config_type", NpgsqlTypes.NpgsqlDbType.Text));
+                                (dbParams as glClass.DBConn.PostParams).Params.Add(new Npgsql.NpgsqlParameter("p_config_value", NpgsqlTypes.NpgsqlDbType.Text));
 
-                            //    (dbParams as glClass.DBConn.PostParams).Values.Add("p_mng_type", "get");
-                            //    (dbParams as glClass.DBConn.PostParams).Values.Add("p_config_type", string.Empty);
-                            //    (dbParams as glClass.DBConn.PostParams).Values.Add("p_config_value", string.Empty);
-                            //    break;
+                                (dbParams as glClass.DBConn.PostParams).Values.Add("p_mng_type", "get");
+                                (dbParams as glClass.DBConn.PostParams).Values.Add("p_config_type", string.Empty);
+                                (dbParams as glClass.DBConn.PostParams).Values.Add("p_config_value", string.Empty);
+                                break;
                             case glClass.DBConn.DBMS.Oracle:
                             default:
                                 dbParams = new glClass.DBConn.OraParams();
 
                                 (dbParams as glClass.DBConn.OraParams).CmdType = CommandType.StoredProcedure;
-                                (dbParams as glClass.DBConn.OraParams).CmdText = "MGMT_COMMON.SP_MNG_APP_CONFIG";
+                                (dbParams as glClass.DBConn.OraParams).CmdText = "LOAD_MIL.SP_LOAD_MIL";
 
                                 (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("P_MNG_TYPE", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
-                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("P_CONFIG_TYPE", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
-                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("P_CONFIG_VALUE", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN7", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
+                                (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("COLUMN8", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
                                 (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("cur_DATA", Oracle.ManagedDataAccess.Client.OracleDbType.RefCursor));
                                 (dbParams as glClass.DBConn.OraParams).Params[(dbParams as glClass.DBConn.OraParams).Params.Count - 1].Direction = ParameterDirection.Output;
 
                                 (dbParams as glClass.DBConn.OraParams).Values.Add("P_MNG_TYPE", "get");
-                                (dbParams as glClass.DBConn.OraParams).Values.Add("P_CONFIG_TYPE", string.Empty);
-                                (dbParams as glClass.DBConn.OraParams).Values.Add("P_CONFIG_VALUE", string.Empty);
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN7", string.Empty);
+                                (dbParams as glClass.DBConn.OraParams).Values.Add("COLUMN8", string.Empty);
                                 break;
                         }
 
@@ -117,7 +216,7 @@ namespace Api
                                 dbParams = new glClass.DBConn.OraParams();
 
                                 (dbParams as glClass.DBConn.OraParams).CmdType = CommandType.StoredProcedure;
-                                (dbParams as glClass.DBConn.OraParams).CmdText = "MGMT_COMMON.SP_UPDATE_USER_PROFILE";
+                                (dbParams as glClass.DBConn.OraParams).CmdText = "load_mil.sp_load_mil";
 
                                 (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("P_USER_IDX", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));
                                 (dbParams as glClass.DBConn.OraParams).Params.Add(new Oracle.ManagedDataAccess.Client.OracleParameter("P_USER_NAME", Oracle.ManagedDataAccess.Client.OracleDbType.Varchar2));

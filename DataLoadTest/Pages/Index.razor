@@ -7,9 +7,9 @@
 
 @page "/"
 
-<h1>Data Load TEST</h1>
+<h1>Data Load TEST => @gVar.col[2,0] / @gVar.col[14,4]</h1>
 <br />
-<table id="loadTest" class="display" style="width:100%;">
+<table id="loadSample" class="display" style="width:100%;">
     <thead>
         <tr>
             <th>DATA1</th>
@@ -55,14 +55,13 @@
             await JS.InvokeVoidAsync("Tables");
             @*Global.DB db = new Global.DB();
             db.OracleConnection();*@
-            
-        }
-        else
-        {
-            Console.Out.WriteLine("Load blazor.server.js");
-        }
-        base.OnAfterRender(firstRender);
+         }
+    else
+    {
+        Console.Out.WriteLine("Load blazor.server.js");
     }
+    base.OnAfterRender(firstRender);
+}
 
 
 }
