@@ -113,4 +113,8 @@
     <PackageReference Include="UAParser" Version="3.1.46" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Log\Err\" />
+  </ItemGroup>
+
 </Project>

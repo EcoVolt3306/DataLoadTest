@@ -29,10 +29,6 @@ namespace Global
 
 
 
-
-
-
-
         public static AppThemeData AppThemeInfo = new AppThemeData();
 
         public static int SessionOutMin { get; set; } = 30;

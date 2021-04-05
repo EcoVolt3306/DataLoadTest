@@ -140,7 +140,7 @@ using Global;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 46 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+#line 45 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
        
 
 
@@ -157,15 +157,15 @@ using Global;
 #line hidden
 #nullable disable
 #nullable restore
-#line 57 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
-                                    
-         }
-    else
-    {
-        Console.Out.WriteLine("Load blazor.server.js");
+#line 56 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+                                        
+        }
+        else
+        {
+            Console.Out.WriteLine("Load blazor.server.js");
+        }
+        base.OnAfterRender(firstRender);
     }
-    base.OnAfterRender(firstRender);
-}
 
 
 

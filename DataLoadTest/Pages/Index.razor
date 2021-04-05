@@ -4,10 +4,9 @@
 @using System.Net.Http;
 
 @using Global;
-
 @page "/"
 
-<h1>Data Load TEST => @gVar.col[2,0] / @gVar.col[14,4]</h1>
+<h1>Data Load TEST => @gVar.col[2, 0] / @gVar.col[14, 4]</h1>
 <br />
 <table id="loadSample" class="display" style="width:100%;">
     <thead>
@@ -54,14 +53,14 @@
         {
             await JS.InvokeVoidAsync("Tables");
             @*Global.DB db = new Global.DB();
-            db.OracleConnection();*@
-         }
-    else
-    {
-        Console.Out.WriteLine("Load blazor.server.js");
+                db.OracleConnection();*@
+        }
+        else
+        {
+            Console.Out.WriteLine("Load blazor.server.js");
+        }
+        base.OnAfterRender(firstRender);
     }
-    base.OnAfterRender(firstRender);
-}
 
 
 }

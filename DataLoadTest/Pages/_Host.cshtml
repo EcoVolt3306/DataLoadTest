@@ -51,13 +51,53 @@
         <script src="https://cdn.datatables.net/buttons/1.6.5/js/buttons.html5.min.js"></script>
         <script src="https://cdn.datatables.net/buttons/1.6.5/js/buttons.print.min.js"></script>
 
-
         <script>
             window.Tables = () => {
+
+
+
+                var data = [
+                    [
+                        "OHHHHHH",
+                        "E Director",
+                        "ODS Edinburgh",
+                        "o4ero 8422",
+                        "2011/07/25",
+                        "$5,300",
+                        "Director",
+                        "Edinburgh",
+                        "8422",
+                        "dfg 2011/07/25",
+                        "$5,300",
+                        "Director",
+                        "Edinburgh",
+                        "8422",
+                        "2011/07/25"
+                    ],
+                    [
+                        "Garrett Winters",
+                        "Director",
+                        "Edinburgh",
+                        "8422",
+                        "2011/07/25",
+                        "$5,300",
+                        "Director",
+                        "Edinburgh",
+                        "8422",
+                        "2011/07/25",
+                        "$5,300",
+                        "Director",
+                        "Edinburgh",
+                        "8422",
+                        "2011/07/25"
+                    ]
+                ]
+
                 $('#loadSample').dataTable({
+                    data: data,
+
                     "drawCallback": function (settings) {
                         var api = new $.fn.dataTable.Api(settings);
-
                         // Output the data for the visible rows to the browser's console
                         // You might do something more useful with it!
                         console.log(api.rows({ page: 'current' }).data());
