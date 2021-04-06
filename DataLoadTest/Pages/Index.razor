@@ -4,10 +4,12 @@
 @using System.Net.Http;
 
 @using Global;
+
 @page "/"
 
 <h1>Data Load TEST => @gVar.col[2, 0] / @gVar.col[14, 4]</h1>
 <br />
+@*<DataLoadTest.Load.LoadData ak="@gVar.col[1,3]" />*@
 <table id="loadSample" class="display" style="width:100%;">
     <thead>
         <tr>
@@ -29,38 +31,30 @@
         </tr>
     </thead>
 
-    @*<tbody>
-            @for (int i = 0; i < 1000; i++)
-            {
-                <tr>
-                    @for (int j = 0; j < 15; j++)
-                    {
-                        <td>xxoxx</td>
-                    }
-                </tr>
-            }
-        </tbody>*@
 </table>
 
 @code {
-
-
     private bool IsRender { get; set; } = false;
 
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
         if (firstRender)
         {
-            await JS.InvokeVoidAsync("Tables");
-            @*Global.DB db = new Global.DB();
-                db.OracleConnection();*@
-        }
-        else
-        {
-            Console.Out.WriteLine("Load blazor.server.js");
-        }
-        base.OnAfterRender(firstRender);
+            @*await JS.InvokeVoidAsync("Tables");*@
+            @*JS.InvokeVoidAsync("ShowAlertBox", gVar.col[0,1]);*@
+        glClass.Helper.Go1(this.JS, gVar.col[3,2].ToString());
+
     }
+    else
+    {
+        Console.Out.WriteLine("Load blazor.server.js");
+    }
+    base.OnAfterRender(firstRender);
+}
+
+
+
+
 
 
 }

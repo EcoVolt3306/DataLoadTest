@@ -827,5 +827,17 @@ namespace glClass
                 return null;
             }
         }
+
+        public static void Go1(this Microsoft.JSInterop.IJSRuntime JS, string on)
+        {
+            try
+            {
+                JS.InvokeVoidAsync("go2", on);
+            }
+            catch (Exception ex)
+            {
+                glClass.Log.FileLog(glClass.Log.LogFlag.Err, string.Format("{0} -> {1}", glClass.Common.GetNowMethodName(), ex.Message.ToString()));
+            }
+        }
     }
 }

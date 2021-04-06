@@ -1,0 +1,22 @@
+﻿@inject IJSRuntime JsRuntime
+
+<h5>@this.ak</h5>
+
+@code {
+    [Parameter]
+    public string ak { get; set; } = "HelloDT";
+
+
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        await this.JsRuntime.InvokeVoidAsync("blazorjs.chartSetup", this.ak);
+
+    }
+
+
+
+
+
+
+}

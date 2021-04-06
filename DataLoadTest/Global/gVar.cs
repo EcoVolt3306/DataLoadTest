@@ -24,7 +24,7 @@ namespace Global
         //public static string column15 { get; set; } = "C15";
 
         // 2-dimensional array
-        public static string[,] col = new string[15, 5];    
+        public static string[,] col = new string[15, 5];
        
 
 

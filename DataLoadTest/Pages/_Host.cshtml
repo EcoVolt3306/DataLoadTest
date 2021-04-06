@@ -52,9 +52,8 @@
         <script src="https://cdn.datatables.net/buttons/1.6.5/js/buttons.print.min.js"></script>
 
         <script>
+
             window.Tables = () => {
-
-
 
                 var data = [
                     [
@@ -94,17 +93,21 @@
                 ]
 
                 $('#loadSample').dataTable({
-                    data: data,
-
-                    "drawCallback": function (settings) {
-                        var api = new $.fn.dataTable.Api(settings);
-                        // Output the data for the visible rows to the browser's console
-                        // You might do something more useful with it!
-                        console.log(api.rows({ page: 'current' }).data());
-                    }
+                    data: data
                 });
+
+
+
+
+                
             };
+
+            function go2(on) {
+                var box1 = on
+                alert(box1);
+            }
         </script>
+
     </footer>
 </body>
 </html>
