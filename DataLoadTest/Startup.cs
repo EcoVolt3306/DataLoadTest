@@ -204,38 +204,62 @@ namespace DataLoadTest
                 glClass.Log.FileLog(glClass.Log.LogFlag.Err, string.Format("{0} -> {1}", glClass.Common.GetNowMethodName(), ex.Message.ToString()));
             }
         }
+
+        private void Json2JS(string dtJson)
+        {
+
+        }
+
         private void LoadList()
         {
              try{
 
                 DataTable listData = Api.Common.GetMillon();
+                //gVar.dtbox = Api.Common.GetMillon();
+                gVar.newDT = Api.Common.GetMillon();
 
-                if(listData != null)
+                if (listData != null)
                 {
                     for (int i = 0; i < listData.Rows.Count; i++)   // i->Rows
                     {
-                        gVar.col[0,i] = glClass.Common.ConvertString(listData.Rows[i][0]);
-                        gVar.col[1,i] = glClass.Common.ConvertString(listData.Rows[i][1]);
-                        gVar.col[2,i] = glClass.Common.ConvertString(listData.Rows[i][2]);
-                        gVar.col[3,i] = glClass.Common.ConvertString(listData.Rows[i][3]);
-                        gVar.col[4,i] = glClass.Common.ConvertString(listData.Rows[i][4]);
-                        gVar.col[5,i] = glClass.Common.ConvertString(listData.Rows[i][5]);
-                        gVar.col[6,i] = glClass.Common.ConvertString(listData.Rows[i][6]);
-                        gVar.col[7,i] = glClass.Common.ConvertString(listData.Rows[i][7]);
-                        gVar.col[8,i] = glClass.Common.ConvertString(listData.Rows[i][8]);
-                        gVar.col[9,i] = glClass.Common.ConvertString(listData.Rows[i][9]);
-                        gVar.col[10,i] = glClass.Common.ConvertString(listData.Rows[i][10]);
-                        gVar.col[11,i] = glClass.Common.ConvertString(listData.Rows[i][11]);
-                        gVar.col[12,i] = glClass.Common.ConvertString(listData.Rows[i][12]);
-                        gVar.col[13,i] = glClass.Common.ConvertString(listData.Rows[i][13]);
-                        gVar.col[14,i] = glClass.Common.ConvertString(listData.Rows[i][14]);
+                        gVar.col[0, i] = glClass.Common.ConvertString(listData.Rows[i][0]); // 00 01 02 03 04...
+                        gVar.col[1, i] = glClass.Common.ConvertString(listData.Rows[i][1]); // 10 11 12 13 14....
+                        gVar.col[2, i] = glClass.Common.ConvertString(listData.Rows[i][2]);
+                        gVar.col[3, i] = glClass.Common.ConvertString(listData.Rows[i][3]);
+                        gVar.col[4, i] = glClass.Common.ConvertString(listData.Rows[i][4]);
+                        gVar.col[5, i] = glClass.Common.ConvertString(listData.Rows[i][5]);
+                        gVar.col[6, i] = glClass.Common.ConvertString(listData.Rows[i][6]);
+                        gVar.col[7, i] = glClass.Common.ConvertString(listData.Rows[i][7]);
+                        gVar.col[8, i] = glClass.Common.ConvertString(listData.Rows[i][8]);
+                        gVar.col[9, i] = glClass.Common.ConvertString(listData.Rows[i][9]);
+                        gVar.col[10, i] = glClass.Common.ConvertString(listData.Rows[i][10]);
+                        gVar.col[11, i] = glClass.Common.ConvertString(listData.Rows[i][11]);
+                        gVar.col[12, i] = glClass.Common.ConvertString(listData.Rows[i][12]);
+                        gVar.col[13, i] = glClass.Common.ConvertString(listData.Rows[i][13]);
+                        gVar.col[14, i] = glClass.Common.ConvertString(listData.Rows[i][14]);
+
+                        //gVar.dic1[1] = "k";
+                        //gVar.dic1[2] = "k";
+
+
                     }
                 }
+
+
 
             } catch(Exception e){
                  Console.WriteLine(e.Message);
             }
 }
+        /// <summary>
+        ///  Fnc TEST AREA
+        /// </summary>
+
+
+
+
+
+
 
         private void CheckAppConfig()
         {

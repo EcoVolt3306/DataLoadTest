@@ -154,9 +154,11 @@ using Global;
 #line hidden
 #nullable disable
 #nullable restore
-#line 44 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
-                                                                  
-        glClass.Helper.Go1(this.JS, gVar.col[3,2].ToString());
+#line 45 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+                                                   
+        string newdt = Api.Common.DataTableToJSONWithStringBuilder(gVar.newDT);
+        Console.WriteLine(newdt);
+
 
     }
     else

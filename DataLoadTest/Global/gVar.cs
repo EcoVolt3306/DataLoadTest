@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Collections;
+using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using System.Data;
 
 namespace Global
 {
@@ -25,9 +30,15 @@ namespace Global
 
         // 2-dimensional array
         public static string[,] col = new string[15, 5];
-       
 
+        public static ArrayList al = new ArrayList();
 
+        public static object dtbox = new object { };
+        public static Dictionary<string, string> dic1 = new Dictionary<string, string>();
+
+        public static DataTable newDT = new DataTable();
+        public static string dtJson = null;
+        
 
         public static AppThemeData AppThemeInfo = new AppThemeData();
 

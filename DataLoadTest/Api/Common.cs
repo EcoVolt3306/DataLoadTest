@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
+using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -11,6 +12,115 @@ namespace Api
 {
     public class Common
     {
+
+        public static string DataTableToJSONWithStringBuilder(DataTable table)
+        {
+            var JSONString = new StringBuilder();
+            if (table.Rows.Count > 0)
+            {
+                JSONString.Append("[");
+                for (int i = 0; i < table.Rows.Count; i++)
+                {
+                    JSONString.Append("{");
+                    for (int j = 0; j < table.Columns.Count; j++)
+                    {
+                        if (j < table.Columns.Count - 1)
+                        {
+                            JSONString.Append("\"" + table.Columns[j].ColumnName.ToString() + "\":" + "\"" + table.Rows[i][j].ToString() + "\",");
+                        }
+                        else if (j == table.Columns.Count - 1)
+                        {
+                            JSONString.Append("\"" + table.Columns[j].ColumnName.ToString() + "\":" + "\"" + table.Rows[i][j].ToString() + "\"");
+                        }
+                    }
+                    if (i == table.Rows.Count - 1)
+                    {
+                        JSONString.Append("}");
+                    }
+                    else
+                    {
+                        JSONString.Append("},");
+                    }
+                }
+                JSONString.Append("]");
+            }
+            return JSONString.ToString();
+        }
+
+
+        public static string ConvertDT2Json(System.Data.DataTable table, bool isWithSuccess = false)
+        {
+            var JSONString = new System.Text.StringBuilder();
+            if (table.Rows.Count > 0)
+            {
+                if (isWithSuccess)
+                {
+                    JSONString.Append("{\"success\":\"ok\", \"data\":[");
+                }
+                else
+                {
+                    JSONString.Append("{\"data\":[");
+                }
+                for (int i = 0; i < table.Rows.Count; i++)
+                {
+                    JSONString.Append("[");
+                    for (int j = 0; j < table.Columns.Count; j++)
+                    {
+                        string appendText = table.Rows[i][j].ToString()
+                                                            .Replace("[", "(")
+                                                            .Replace("]", ")")
+                                                            .Replace(@"\", @"\\")
+                                                            .Replace("\"", "\\\"")
+                                                            .Replace(((char)13).ToString(), "<br />")
+                                                            .Replace(((char)10).ToString(), "")
+                                                            .Trim();
+
+                        if (j < table.Columns.Count - 1)
+                        {
+                            JSONString.Append("\"" + appendText + "\",");
+                            //JSONString.Append("\"" + table.Columns[j].ColumnName.ToString() + "\":" + "\"" + table.Rows[i][j].ToString() + "\",");
+                        }
+                        else if (j == table.Columns.Count - 1)
+                        {
+                            JSONString.Append("\"" + appendText + "\"");
+                        }
+                    }
+                    if (i == table.Rows.Count - 1)
+                    {
+                        JSONString.Append("]");
+                    }
+                    else
+                    {
+                        JSONString.Append("],");
+                    }
+                }
+                JSONString.Append("]}");
+            }
+            else
+            {
+                if (table.Columns.Count > 0)
+                {
+                    JSONString.Append("{\"data\":[");
+                    JSONString.Append("[");
+                    for (int i = 0; i < table.Columns.Count; i++)
+                    {
+                        if (i < table.Columns.Count - 1)
+                        {
+                            JSONString.Append("\"NoData\",");
+                        }
+                        else if (i == table.Columns.Count - 1)
+                        {
+                            JSONString.Append("\"NoData\"");
+                        }
+                    }
+                    JSONString.Append("]");
+                    JSONString.Append("]}");
+                }
+            }
+
+            return JSONString.ToString();
+        }
+
         public static DataTable GetMillon() {
 
             DataTable result = null;

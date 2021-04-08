@@ -17,6 +17,7 @@ namespace glClass
 {
     public class Common
     {
+
         [MethodImpl(MethodImplOptions.NoInlining)]
         public static string GetNowMethodName()
         {
@@ -827,12 +828,26 @@ namespace glClass
                 return null;
             }
         }
-
-        public static void Go1(this Microsoft.JSInterop.IJSRuntime JS, string on)
+        
+        public static async void Go1(this Microsoft.JSInterop.IJSRuntime JS, string on)
         {
             try
             {
-                JS.InvokeVoidAsync("go2", on);
+                await JS.InvokeVoidAsync("go2", on);
+            }
+            catch (Exception ex)
+            {
+                glClass.Log.FileLog(glClass.Log.LogFlag.Err, string.Format("{0} -> {1}", glClass.Common.GetNowMethodName(), ex.Message.ToString()));
+            }
+        }
+
+        public static async void LD(this Microsoft.JSInterop.IJSRuntime JS, object databox)
+        {
+            try
+            {
+                await JS.InvokeVoidAsync("ld", databox);
+
+
             }
             catch (Exception ex)
             {

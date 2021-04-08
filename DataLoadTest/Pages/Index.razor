@@ -40,9 +40,12 @@
     {
         if (firstRender)
         {
-            @*await JS.InvokeVoidAsync("Tables");*@
             @*JS.InvokeVoidAsync("ShowAlertBox", gVar.col[0,1]);*@
-        glClass.Helper.Go1(this.JS, gVar.col[3,2].ToString());
+            @*glClass.Helper.Go1(this.JS, gVar.col[3,2].ToString());*@
+        @*glClass.Helper.LD(this.JS, gVar.dtbox);*@
+        string newdt = Api.Common.DataTableToJSONWithStringBuilder(gVar.newDT);
+        Console.WriteLine(newdt);
+
 
     }
     else

@@ -1,0 +1,22 @@
+18:16:44.591 - MoveNext -> box1a is not defined
+ReferenceError: box1a is not defined
+    at go2 (https://localhost:44353/js/main.js:4:11)
+    at https://localhost:44353/_framework/blazor.server.js:8:35886
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+    at e.connection.onreceive (https://localhost:44353/_framework/blazor.server.js:1:11092)
+    at WebSocket.i.onmessage (https://localhost:44353/_framework/blazor.server.js:1:39008)
+18:26:53.691 - MoveNext -> The type 'System.String[,]' is not supported. The unsupported member type is located on type 'System.Object'. Path: $.
+18:27:39.409 - MoveNext -> A task was canceled.
+18:42:35.930 - MoveNext -> The type 'System.String[,]' is not supported. The unsupported member type is located on type 'System.Object'. Path: $.
+19:03:42.698 - MoveNext -> The type 'System.String[,]' is not supported. The unsupported member type is located on type 'System.Object'. Path: $.
+19:05:02.652 - MoveNext -> The type 'System.String[,]' is not supported. The unsupported member type is located on type 'System.Object'. Path: $.
+19:06:40.269 - MoveNext -> The type 'System.String[,]' is not supported. The unsupported member type is located on type 'System.Object'. Path: $.
+19:18:57.350 - MoveNext -> The type 'System.String[,]' is not supported. The unsupported member type is located on type 'System.Object'. Path: $.
+19:24:49.679 - MoveNext -> The type 'System.String[,]' is not supported. The unsupported member type is located on type 'System.Object'. Path: $.
+20:13:23.045 - MoveNext -> The type 'System.String[,]' is not supported. The unsupported member type is located on type 'System.Object'. Path: $.
+20:14:38.343 - MoveNext -> The type 'System.String[,]' is not supported. The unsupported member type is located on type 'System.Object'. Path: $.

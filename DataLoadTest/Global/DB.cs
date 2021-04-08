@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
+using System.Data.Common;
 using System.Linq;
 using System.Threading.Tasks;
 using Oracle.ManagedDataAccess.Client;
@@ -92,8 +94,36 @@ namespace Global
             conn.Dispose();
         }
 
-        
 
-        
+        public class DbParams
+        {
+            public string CmdText { get; set; }
+            public CommandType CmdType { get; set; }
+            private List<DbParameter> _params = new List<DbParameter>();
+            public List<DbParameter> Params
+            {
+                get
+                {
+                    return _params;
+                }
+                set
+                {
+                    _params = value;
+                }
+            }
+            private Dictionary<string, object> _values = new Dictionary<string, object>();
+            public Dictionary<string, object> Values
+            {
+                get
+                {
+                    return _values;
+                }
+                set
+                {
+                    _values = value;
+                }
+            }
+        }
+
     }
 }

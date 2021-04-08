@@ -1,0 +1,2 @@
+10:26:55.210 - MoveNext -> Serialization and deserialization of 'System.Type' instances are not supported and should be avoided since they can lead to security issues. Path: $.Columns.DataType.
+17:20:09.114 - MoveNext -> Serialization and deserialization of 'System.Type' instances are not supported and should be avoided since they can lead to security issues. Path: $.Columns.DataType.
