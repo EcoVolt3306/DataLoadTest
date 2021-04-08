@@ -205,11 +205,6 @@ namespace DataLoadTest
             }
         }
 
-        private void Json2JS(string dtJson)
-        {
-
-        }
-
         private void LoadList()
         {
              try{

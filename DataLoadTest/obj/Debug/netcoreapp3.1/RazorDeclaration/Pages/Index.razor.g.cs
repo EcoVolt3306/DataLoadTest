@@ -155,24 +155,33 @@ using Global;
 #nullable disable
 #nullable restore
 #line 45 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+                                                       
+            string newdt = Api.Common.DataTableToJSONWithStringBuilder(gVar.newDT);
+            
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 47 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+                                         
+
+            glClass.Helper.Json2JS(this.JS, newdt);
+            
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 50 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
                                                    
-        string newdt = Api.Common.DataTableToJSONWithStringBuilder(gVar.newDT);
-        Console.WriteLine(newdt);
-
-
+        }
+        else
+        {
+            Console.Out.WriteLine("Load blazor.server.js");
+        }
+        base.OnAfterRender(firstRender);
     }
-    else
-    {
-        Console.Out.WriteLine("Load blazor.server.js");
-    }
-    base.OnAfterRender(firstRender);
-}
-
-
-
-
-
-
 
 #line default
 #line hidden

@@ -854,5 +854,18 @@ namespace glClass
                 glClass.Log.FileLog(glClass.Log.LogFlag.Err, string.Format("{0} -> {1}", glClass.Common.GetNowMethodName(), ex.Message.ToString()));
             }
         }
+
+        public static async void Json2JS(this Microsoft.JSInterop.IJSRuntime JS, object dtJson)
+        {
+            try
+            {
+                await JS.InvokeVoidAsync("dtJson", dtJson);
+            }
+            catch (Exception ex)
+            {
+                glClass.Log.FileLog(glClass.Log.LogFlag.Err, string.Format("{0} -> {1}", glClass.Common.GetNowMethodName(), ex.Message.ToString()));
+            }
+        }
+
     }
 }
