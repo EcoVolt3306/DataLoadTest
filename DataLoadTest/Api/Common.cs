@@ -18,7 +18,7 @@ namespace Api
             var JSONString = new StringBuilder();
             if (table.Rows.Count > 0)
             {
-                JSONString.Append("[");
+                JSONString.Append("{\"data\":[");
                 for (int i = 0; i < table.Rows.Count; i++)
                 {
                     JSONString.Append("[");
@@ -26,11 +26,11 @@ namespace Api
                     {
                         if (j < table.Columns.Count - 1)
                         {
-                            JSONString.Append("'" + table.Rows[i][j].ToString() + "',");
+                            JSONString.Append("\"" + table.Rows[i][j].ToString() + "\",");
                         }
                         else if (j == table.Columns.Count - 1)
                         {
-                            JSONString.Append("'" + table.Rows[i][j].ToString() + "'");
+                            JSONString.Append("\"" + table.Rows[i][j].ToString() + "'");
                         }
                     }
                     if (i == table.Rows.Count - 1)
@@ -42,9 +42,13 @@ namespace Api
                         JSONString.Append("],");
                     }
                 }
-                JSONString.Append("]");
+                JSONString.Append("]}");
             }
-            return JSONString.ToString();
+
+            string ok = JSONString.ToString();
+            //ok = ok.Replace("\"", "");
+
+            return ok;
         }
 
 

@@ -3,6 +3,7 @@
 @using System.Data;
 @using System.Net.Http;
 
+
 @using Global;
 
 @page "/"
@@ -40,14 +41,15 @@
     {
         if (firstRender)
         {
-            @*JS.InvokeVoidAsync("ShowAlertBox", gVar.col[0,1]);*@
-            @*glClass.Helper.Go1(this.JS, gVar.col[3,2].ToString());*@
-            @*glClass.Helper.LD(this.JS, gVar.dtbox);*@
-            object newdt = Api.Common.DataTableToJSONWithStringBuilder(gVar.newDT);
-            @*Console.WriteLine(newdt);*@
+            string newdt = Api.Common.DataTableToJSONWithStringBuilder(gVar.newDT); // My code
+            string newdt2 = Api.Common.ConvertDT2Json(gVar.newDT, true);    // DPM code
+            Console.WriteLine(newdt2);  // TEST
 
-            glClass.Helper.Json2JS(this.JS, newdt);
+
+            glClass.Helper.Json2JS(this.JS, newdt2);
             @*await JS.InvokeVoidAsync("Tables");*@
+
+            @*Response.Clear();*@// Response ???
         }
         else
         {

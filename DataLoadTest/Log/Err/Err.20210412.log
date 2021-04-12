@@ -1,0 +1,172 @@
+11:04:16.676 - MoveNext -> A task was canceled.
+11:19:56.073 - MoveNext -> A task was canceled.
+11:52:45.232 - MoveNext -> Could not find 'dtJson' in 'window'.
+Error: Could not find 'dtJson' in 'window'.
+    at https://localhost:44353/_framework/blazor.server.js:8:35211
+    at Array.forEach (<anonymous>)
+    at p (https://localhost:44353/_framework/blazor.server.js:8:35171)
+    at https://localhost:44353/_framework/blazor.server.js:8:35881
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+11:53:23.791 - MoveNext -> Could not find 'dtJson' in 'window'.
+Error: Could not find 'dtJson' in 'window'.
+    at https://localhost:44353/_framework/blazor.server.js:8:35211
+    at Array.forEach (<anonymous>)
+    at p (https://localhost:44353/_framework/blazor.server.js:8:35171)
+    at https://localhost:44353/_framework/blazor.server.js:8:35881
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+13:47:55.093 - MoveNext -> A task was canceled.
+14:36:56.106 - MoveNext -> Unexpected token ' in JSON at position 10
+SyntaxError: Unexpected token ' in JSON at position 10
+    at JSON.parse (<anonymous>)
+    at dtJson (https://localhost:44353/js/main.js:15:25)
+    at https://localhost:44353/_framework/blazor.server.js:8:35886
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+    at e.connection.onreceive (https://localhost:44353/_framework/blazor.server.js:1:11092)
+14:37:38.034 - MoveNext -> Unexpected token ' in JSON at position 10
+SyntaxError: Unexpected token ' in JSON at position 10
+    at JSON.parse (<anonymous>)
+    at dtJson (https://localhost:44353/js/main.js:15:25)
+    at https://localhost:44353/_framework/blazor.server.js:8:35886
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+    at e.connection.onreceive (https://localhost:44353/_framework/blazor.server.js:1:11092)
+14:41:41.920 - MoveNext -> A task was canceled.
+15:10:36.653 - MoveNext -> Unexpected token ' in JSON at position 1
+SyntaxError: Unexpected token ' in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at dtJson (https://localhost:44353/js/main.js:15:25)
+    at https://localhost:44353/_framework/blazor.server.js:8:35886
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+    at e.connection.onreceive (https://localhost:44353/_framework/blazor.server.js:1:11092)
+15:12:47.355 - MoveNext -> Unexpected token ' in JSON at position 1
+SyntaxError: Unexpected token ' in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at dtJson (https://localhost:44353/js/main.js:15:25)
+    at https://localhost:44353/_framework/blazor.server.js:8:35886
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+    at e.connection.onreceive (https://localhost:44353/_framework/blazor.server.js:1:11092)
+15:18:23.989 - MoveNext -> Unexpected token A in JSON at position 103
+SyntaxError: Unexpected token A in JSON at position 103
+    at JSON.parse (<anonymous>)
+    at dtJson (https://localhost:44353/js/main.js:15:25)
+    at https://localhost:44353/_framework/blazor.server.js:8:35886
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+    at e.connection.onreceive (https://localhost:44353/_framework/blazor.server.js:1:11092)
+15:19:38.475 - MoveNext -> Unexpected token A in JSON at position 103
+SyntaxError: Unexpected token A in JSON at position 103
+    at JSON.parse (<anonymous>)
+    at dtJson (https://localhost:44353/js/main.js:15:25)
+    at https://localhost:44353/_framework/blazor.server.js:8:35886
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+    at e.connection.onreceive (https://localhost:44353/_framework/blazor.server.js:1:11092)
+15:20:00.707 - MoveNext -> Unexpected token ' in JSON at position 2
+SyntaxError: Unexpected token ' in JSON at position 2
+    at JSON.parse (<anonymous>)
+    at dtJson (https://localhost:44353/js/main.js:15:25)
+    at https://localhost:44353/_framework/blazor.server.js:8:35886
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+    at e.connection.onreceive (https://localhost:44353/_framework/blazor.server.js:1:11092)
+15:22:23.436 - MoveNext -> Unexpected token ' in JSON at position 2
+SyntaxError: Unexpected token ' in JSON at position 2
+    at JSON.parse (<anonymous>)
+    at dtJson (https://localhost:44353/js/main.js:15:25)
+    at https://localhost:44353/_framework/blazor.server.js:8:35886
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+    at e.connection.onreceive (https://localhost:44353/_framework/blazor.server.js:1:11092)
+15:27:27.272 - MoveNext -> Unexpected token ' in JSON at position 2
+SyntaxError: Unexpected token ' in JSON at position 2
+    at JSON.parse (<anonymous>)
+    at dtJson (https://localhost:44353/js/main.js:15:25)
+    at https://localhost:44353/_framework/blazor.server.js:8:35886
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+    at e.connection.onreceive (https://localhost:44353/_framework/blazor.server.js:1:11092)
+15:34:19.626 - MoveNext -> Unexpected token A in JSON at position 103
+SyntaxError: Unexpected token A in JSON at position 103
+    at JSON.parse (<anonymous>)
+    at dtJson (https://localhost:44353/js/main.js:15:25)
+    at https://localhost:44353/_framework/blazor.server.js:8:35886
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+    at e.connection.onreceive (https://localhost:44353/_framework/blazor.server.js:1:11092)
+15:55:07.981 - MoveNext -> Cannot use 'in' operator to search for 'length' in {
+TypeError: Cannot use 'in' operator to search for 'length' in {
+    at p (https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:1077)
+    at Function.each (https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:2937)
+    at O (https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js:22:97)
+    at Da (https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js:27:189)
+    at https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js:107:82
+    at Cb (https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js:32:174)
+    at HTMLTableElement.<anonymous> (https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js:107:46)
+    at Function.each (https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:2976)
+    at S.fn.init.each (https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:1454)
+    at S.fn.init.u [as dataTable] (https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js:100:148)
+16:13:47.400 - MoveNext -> v.type.toUpperCase is not a function
+TypeError: v.type.toUpperCase is not a function
+    at Function.ajax (https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:77046)
+    at La (https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js:53:210)
+    at za (https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js:65:341)
+    at f (https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js:110:4)
+    at HTMLTableElement.<anonymous> (https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js:110:90)
+    at Function.each (https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:2976)
+    at S.fn.init.each (https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:1454)
+    at S.fn.init.u [as dataTable] (https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js:100:148)
+    at dtJson (https://localhost:44353/js/main.js:22:22)
+    at https://localhost:44353/_framework/blazor.server.js:8:35886

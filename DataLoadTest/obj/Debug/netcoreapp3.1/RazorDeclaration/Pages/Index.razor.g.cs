@@ -125,7 +125,7 @@ using System.Net.Http;
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+#line 7 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
 using Global;
 
 #line default
@@ -140,7 +140,7 @@ using Global;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 36 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+#line 37 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
        
     private bool IsRender { get; set; } = false;
 
@@ -148,33 +148,20 @@ using Global;
     {
         if (firstRender)
         {
+            string newdt = Api.Common.DataTableToJSONWithStringBuilder(gVar.newDT); // My code
+            string newdt2 = Api.Common.ConvertDT2Json(gVar.newDT, true);    // DPM code
+            Console.WriteLine(newdt2);  // TEST
+
+
+            glClass.Helper.Json2JS(this.JS, newdt2);
             
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 45 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
-                                                       
-            object newdt = Api.Common.DataTableToJSONWithStringBuilder(gVar.newDT);
-            
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 47 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
-                                         
-
-            glClass.Helper.Json2JS(this.JS, newdt);
-            
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 50 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
-                                                   
+#line 52 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+                                 // Response ???
         }
         else
         {

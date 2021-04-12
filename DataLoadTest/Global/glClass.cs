@@ -13,6 +13,8 @@ using System.Reflection;
 using Global;
 using System.Threading.Tasks;
 
+using System.Web;
+
 namespace glClass
 {
     public class Common
@@ -855,11 +857,13 @@ namespace glClass
             }
         }
 
-        public static async void Json2JS(this Microsoft.JSInterop.IJSRuntime JS, object dtJson)
+        public static async void Json2JS(this Microsoft.JSInterop.IJSRuntime JS, string dtJson)
         {
             try
             {
-                 await JS.InvokeVoidAsync("dtJson", dtJson);
+                //Response.Clear();
+
+                await JS.InvokeVoidAsync("dtJson", dtJson);
             }
             catch (Exception ex)
             {
