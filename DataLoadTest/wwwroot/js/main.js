@@ -21,7 +21,11 @@ function dtJson(dtJson) {
 
     $('#loadSample').dataTable({
         ...varjBox2,
-        "lengthMenu": [10, 25, 50, 75, 10000]
+        //"lengthMenu": [10, 25, 50, 75, 10000],
+        scrollY: 600,   // Height 길이 조절
+        scroller: {
+            loadingIndicator: true // 로딩 안내 메세지 표시 여부
+        },
     });
 
 }
