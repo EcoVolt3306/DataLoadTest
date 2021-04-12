@@ -1,0 +1,196 @@
+09:31:30.578 - MoveNext -> A task was canceled.
+09:33:22.300 - MoveNext -> Could not find 'dtJson' in 'window'.
+Error: Could not find 'dtJson' in 'window'.
+    at https://localhost:44353/_framework/blazor.server.js:8:35211
+    at Array.forEach (<anonymous>)
+    at p (https://localhost:44353/_framework/blazor.server.js:8:35171)
+    at https://localhost:44353/_framework/blazor.server.js:8:35881
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+09:34:06.525 - MoveNext -> Could not find 'dtJson' in 'window'.
+Error: Could not find 'dtJson' in 'window'.
+    at https://localhost:44353/_framework/blazor.server.js:8:35211
+    at Array.forEach (<anonymous>)
+    at p (https://localhost:44353/_framework/blazor.server.js:8:35171)
+    at https://localhost:44353/_framework/blazor.server.js:8:35881
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+09:36:01.210 - MoveNext -> Could not find 'dtJson' in 'window'.
+Error: Could not find 'dtJson' in 'window'.
+    at https://localhost:44353/_framework/blazor.server.js:8:35211
+    at Array.forEach (<anonymous>)
+    at p (https://localhost:44353/_framework/blazor.server.js:8:35171)
+    at https://localhost:44353/_framework/blazor.server.js:8:35881
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+09:52:40.151 - MoveNext -> Could not find 'dtJson' in 'window'.
+Error: Could not find 'dtJson' in 'window'.
+    at https://localhost:44353/_framework/blazor.server.js:8:35211
+    at Array.forEach (<anonymous>)
+    at p (https://localhost:44353/_framework/blazor.server.js:8:35171)
+    at https://localhost:44353/_framework/blazor.server.js:8:35881
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+09:52:54.247 - MoveNext -> Could not find 'dtJson' in 'window'.
+Error: Could not find 'dtJson' in 'window'.
+    at https://localhost:44353/_framework/blazor.server.js:8:35211
+    at Array.forEach (<anonymous>)
+    at p (https://localhost:44353/_framework/blazor.server.js:8:35171)
+    at https://localhost:44353/_framework/blazor.server.js:8:35881
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+09:53:06.423 - MoveNext -> Could not find 'dtJson' in 'window'.
+Error: Could not find 'dtJson' in 'window'.
+    at https://localhost:44353/_framework/blazor.server.js:8:35211
+    at Array.forEach (<anonymous>)
+    at p (https://localhost:44353/_framework/blazor.server.js:8:35171)
+    at https://localhost:44353/_framework/blazor.server.js:8:35881
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+10:00:16.255 - MoveNext -> Could not find 'dtJson' in 'window'.
+Error: Could not find 'dtJson' in 'window'.
+    at https://localhost:44353/_framework/blazor.server.js:8:35211
+    at Array.forEach (<anonymous>)
+    at p (https://localhost:44353/_framework/blazor.server.js:8:35171)
+    at https://localhost:44353/_framework/blazor.server.js:8:35881
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+10:01:47.498 - MoveNext -> Could not find 'dtJson' in 'window'.
+Error: Could not find 'dtJson' in 'window'.
+    at https://localhost:44353/_framework/blazor.server.js:8:35211
+    at Array.forEach (<anonymous>)
+    at p (https://localhost:44353/_framework/blazor.server.js:8:35171)
+    at https://localhost:44353/_framework/blazor.server.js:8:35881
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+10:07:14.442 - MoveNext -> Could not find 'dtJson' in 'window'.
+Error: Could not find 'dtJson' in 'window'.
+    at https://localhost:44353/_framework/blazor.server.js:8:35211
+    at Array.forEach (<anonymous>)
+    at p (https://localhost:44353/_framework/blazor.server.js:8:35171)
+    at https://localhost:44353/_framework/blazor.server.js:8:35881
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+10:53:55.632 - MoveNext -> dtJson2 is not defined
+ReferenceError: dtJson2 is not defined
+    at dtJson (https://localhost:44353/js/main.js:22:15)
+    at https://localhost:44353/_framework/blazor.server.js:8:35886
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+    at e.connection.onreceive (https://localhost:44353/_framework/blazor.server.js:1:11092)
+    at WebSocket.i.onmessage (https://localhost:44353/_framework/blazor.server.js:1:39008)
+10:54:11.927 - MoveNext -> dtJson2 is not defined
+ReferenceError: dtJson2 is not defined
+    at dtJson (https://localhost:44353/js/main.js:16:17)
+    at https://localhost:44353/_framework/blazor.server.js:8:35886
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+    at e.connection.onreceive (https://localhost:44353/_framework/blazor.server.js:1:11092)
+    at WebSocket.i.onmessage (https://localhost:44353/_framework/blazor.server.js:1:39008)
+10:54:29.347 - MoveNext -> dtJson2 is not defined
+ReferenceError: dtJson2 is not defined
+    at dtJson (https://localhost:44353/js/main.js:16:17)
+    at https://localhost:44353/_framework/blazor.server.js:8:35886
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+    at e.connection.onreceive (https://localhost:44353/_framework/blazor.server.js:1:11092)
+    at WebSocket.i.onmessage (https://localhost:44353/_framework/blazor.server.js:1:39008)
+10:56:08.407 - MoveNext -> Could not find 'dtJson' in 'window'.
+Error: Could not find 'dtJson' in 'window'.
+    at https://localhost:44353/_framework/blazor.server.js:8:35211
+    at Array.forEach (<anonymous>)
+    at p (https://localhost:44353/_framework/blazor.server.js:8:35171)
+    at https://localhost:44353/_framework/blazor.server.js:8:35881
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+11:20:35.401 - MoveNext -> A task was canceled.
+11:25:06.053 - MoveNext -> Could not find 'dtJson' in 'window'.
+Error: Could not find 'dtJson' in 'window'.
+    at https://localhost:44353/_framework/blazor.server.js:8:35211
+    at Array.forEach (<anonymous>)
+    at p (https://localhost:44353/_framework/blazor.server.js:8:35171)
+    at https://localhost:44353/_framework/blazor.server.js:8:35881
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+11:33:50.286 - MoveNext -> Could not find 'dtJson' in 'window'.
+Error: Could not find 'dtJson' in 'window'.
+    at https://localhost:44353/_framework/blazor.server.js:8:35211
+    at Array.forEach (<anonymous>)
+    at p (https://localhost:44353/_framework/blazor.server.js:8:35171)
+    at https://localhost:44353/_framework/blazor.server.js:8:35881
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)
+11:43:27.447 - MoveNext -> A task was canceled.
+16:08:11.103 - MoveNext -> A task was canceled.
+16:33:13.627 - MoveNext -> Could not find 'dtJson' in 'window'.
+Error: Could not find 'dtJson' in 'window'.
+    at https://localhost:44353/_framework/blazor.server.js:8:35211
+    at Array.forEach (<anonymous>)
+    at p (https://localhost:44353/_framework/blazor.server.js:8:35171)
+    at https://localhost:44353/_framework/blazor.server.js:8:35881
+    at new Promise (<anonymous>)
+    at e.beginInvokeJSFromDotNet (https://localhost:44353/_framework/blazor.server.js:8:35854)
+    at https://localhost:44353/_framework/blazor.server.js:1:20053
+    at Array.forEach (<anonymous>)
+    at e.invokeClientMethod (https://localhost:44353/_framework/blazor.server.js:1:20023)
+    at e.processIncomingData (https://localhost:44353/_framework/blazor.server.js:1:18007)

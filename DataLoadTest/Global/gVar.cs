@@ -37,7 +37,7 @@ namespace Global
         public static Dictionary<string, string> dic1 = new Dictionary<string, string>();
 
         public static DataTable newDT = new DataTable();
-        public static string dtJson = null;
+        public static object dtJson = null;
         
 
         public static AppThemeData AppThemeInfo = new AppThemeData();
@@ -49,7 +49,7 @@ namespace Global
         public static glClass.DBConn.DBInfo DBInfo { get; set; } = new glClass.DBConn.DBInfo();
 
         public static ErrorData ErrorInfo { get; set; } = new ErrorData();
-
+        
         public static Dictionary<string, LoginUserData> LoginUserInfo { get; set; } = new Dictionary<string, LoginUserData>();
     }
 }

@@ -859,7 +859,7 @@ namespace glClass
         {
             try
             {
-                await JS.InvokeVoidAsync("dtJson", dtJson);
+                 await JS.InvokeVoidAsync("dtJson", dtJson);
             }
             catch (Exception ex)
             {
