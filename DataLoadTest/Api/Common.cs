@@ -21,25 +21,25 @@ namespace Api
                 JSONString.Append("[");
                 for (int i = 0; i < table.Rows.Count; i++)
                 {
-                    JSONString.Append("[");
+                    JSONString.Append("{");
                     for (int j = 0; j < table.Columns.Count; j++)
                     {
                         if (j < table.Columns.Count - 1)
                         {
-                            JSONString.Append("'" + table.Rows[i][j].ToString() + "',");
+                            JSONString.Append("\"" + table.Columns[j].ColumnName.ToString() + "\":" + "\"" + table.Rows[i][j].ToString() + "\",");
                         }
                         else if (j == table.Columns.Count - 1)
                         {
-                            JSONString.Append("'" + table.Rows[i][j].ToString() + "'");
+                            JSONString.Append("\"" + table.Columns[j].ColumnName.ToString() + "\":" + "\"" + table.Rows[i][j].ToString() + "\"");
                         }
                     }
                     if (i == table.Rows.Count - 1)
                     {
-                        JSONString.Append("]");
+                        JSONString.Append("}");
                     }
                     else
                     {
-                        JSONString.Append("],");
+                        JSONString.Append("},");
                     }
                 }
                 JSONString.Append("]");
@@ -121,7 +121,8 @@ namespace Api
             return JSONString.ToString();
         }
 
-        public static DataTable GetMillon() {
+        public static DataTable GetMillon()
+        {
 
             DataTable result = null;
 

@@ -156,7 +156,7 @@ using Global;
 #nullable restore
 #line 45 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
                                                        
-            object newdt = Api.Common.DataTableToJSONWithStringBuilder(gVar.newDT);
+            string newdt = Api.Common.DataTableToJSONWithStringBuilder(gVar.newDT);
             
 
 #line default

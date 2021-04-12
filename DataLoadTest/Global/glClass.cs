@@ -855,7 +855,7 @@ namespace glClass
             }
         }
 
-        public static async void Json2JS(this Microsoft.JSInterop.IJSRuntime JS, object dtJson)
+        public static async void Json2JS(this Microsoft.JSInterop.IJSRuntime JS, string dtJson)
         {
             try
             {
