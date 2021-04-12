@@ -143,12 +143,19 @@ using Global;
 #line 37 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
        
     private bool IsRender { get; set; } = false;
-
+        
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
         if (firstRender)
         {
-            string newdt = Api.Common.DataTableToJSONWithStringBuilder(gVar.newDT); // My code
+            
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 44 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Pages\Index.razor"
+                                                                                                  
             string newdt2 = Api.Common.ConvertDT2Json(gVar.newDT, true);    // DPM code
             Console.WriteLine(newdt2);  // TEST
 

@@ -207,7 +207,8 @@ namespace DataLoadTest
 
         private void LoadList()
         {
-             try{
+            try
+            {
 
                 DataTable listData = Api.Common.GetMillon();
                 //gVar.dtbox = Api.Common.GetMillon();
@@ -242,10 +243,12 @@ namespace DataLoadTest
 
 
 
-            } catch(Exception e){
-                 Console.WriteLine(e.Message);
             }
-}
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+        }
         /// <summary>
         ///  Fnc TEST AREA
         /// </summary>

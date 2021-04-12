@@ -36,12 +36,12 @@
 
 @code {
     private bool IsRender { get; set; } = false;
-
+        
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
         if (firstRender)
         {
-            string newdt = Api.Common.DataTableToJSONWithStringBuilder(gVar.newDT); // My code
+            @*string newdt = Api.Common.DataTableToJSONWithStringBuilder(gVar.newDT); // My code*@
             string newdt2 = Api.Common.ConvertDT2Json(gVar.newDT, true);    // DPM code
             Console.WriteLine(newdt2);  // TEST
 

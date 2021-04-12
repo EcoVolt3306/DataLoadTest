@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace DataLoadTest.Shared
+namespace DataLoadTest.Load
 {
     #line hidden
     using System;
@@ -117,13 +117,37 @@ using glClass;
 #line default
 #line hidden
 #nullable disable
-    public partial class MainLayout : LayoutComponentBase
+    public partial class LoadData : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 5 "C:\Users\Seungwoo\source\repos\EcoVolt3306\DataLoadTest\DataLoadTest\Load\LoadData.razor"
+       
+    [Parameter]
+    public string ak { get; set; } = "HelloDT";
+
+
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        await this.JsRuntime.InvokeVoidAsync("blazorjs.chartSetup", this.ak);
+
+    }
+
+
+
+
+
+
+
+#line default
+#line hidden
+#nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IJSRuntime JsRuntime { get; set; }
     }
 }
 #pragma warning restore 1591
