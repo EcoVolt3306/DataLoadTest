@@ -1,0 +1,27 @@
+08:49:46.679 - DBConnect -> ORA-12541: TNS:리스너가 없습니다.
+08:49:46.684 - InitDbCommand -> Connect fail..
+08:49:46.690 - ToDataSet -> Object reference not set to an instance of an object.
+08:49:50.787 - DBConnect -> ORA-12541: TNS:리스너가 없습니다.
+08:49:50.789 - InitDbCommand -> Connect fail..
+08:49:50.791 - ToDataSet -> Object reference not set to an instance of an object.
+08:49:55.861 - DBConnect -> ORA-12541: TNS:리스너가 없습니다.
+08:49:55.862 - InitDbCommand -> Connect fail..
+08:49:55.863 - ToValue -> Object reference not set to an instance of an object.
+08:49:58.884 - DBConnect -> ORA-12541: TNS:리스너가 없습니다.
+08:49:58.885 - InitDbCommand -> Connect fail..
+08:49:58.886 - ToValue -> Object reference not set to an instance of an object.
+08:50:01.873 - DBConnect -> ORA-12541: TNS:리스너가 없습니다.
+08:50:01.874 - InitDbCommand -> Connect fail..
+08:50:01.875 - ToValue -> Object reference not set to an instance of an object.
+08:50:04.870 - DBConnect -> ORA-12541: TNS:리스너가 없습니다.
+08:50:04.872 - InitDbCommand -> Connect fail..
+08:50:04.873 - ToValue -> Object reference not set to an instance of an object.
+08:50:07.872 - DBConnect -> ORA-12541: TNS:리스너가 없습니다.
+08:50:07.874 - InitDbCommand -> Connect fail..
+08:50:07.875 - ToValue -> Object reference not set to an instance of an object.
+08:50:10.878 - DBConnect -> ORA-12541: TNS:리스너가 없습니다.
+08:50:10.881 - InitDbCommand -> Connect fail..
+08:50:10.882 - ToValue -> Object reference not set to an instance of an object.
+08:50:13.887 - DBConnect -> ORA-12541: TNS:리스너가 없습니다.
+08:50:13.888 - InitDbCommand -> Connect fail..
+08:50:13.889 - ToValue -> Object reference not set to an instance of an object.
